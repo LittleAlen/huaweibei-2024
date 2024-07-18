@@ -1,0 +1,3900 @@
+berth  id 0 status 1 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 2 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 0 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 0
+boat id=0  status 0  pos 8   nums 0
+boat id=1  status 0  pos 0   nums 0
+boat id=2  status 0  pos 3   nums 0
+boat id=3  status 1  pos -1   nums 0
+boat id=4  status 1  pos -1   nums 0
+robot  id 0 goods 0 gr 0x6000024e0180  berth id 9
+robot  id 1 goods 0 gr 0x6000024e0210  berth id 3
+robot  id 2 goods 0 gr 0x6000024e0150  berth id 8
+robot  id 3 goods 0 gr 0x6000024e01b0  berth id 6
+robot  id 4 goods 0 gr 0x6000024e0240  berth id 8
+robot  id 5 goods 0 gr 0x6000024e03c0  berth id 8
+robot  id 6 goods 0 gr 0x6000024e8000  berth id 8
+robot  id 7 goods 0 gr 0x6000024e8030  berth id 0
+robot  id 8 goods 0 gr 0x6000024e42a0  berth id 0
+robot  id 9 goods 0 gr 0x6000024e42d0  berth id 9
+---------------------------------------
+berth  id 0 status 1 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 2 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 0 priority 4  nums 1
+berth  id 9 status -1 priority 3  nums 0
+boat id=0  status 0  pos 8   nums 0
+boat id=1  status 0  pos 0   nums 0
+boat id=2  status 0  pos 3   nums 0
+boat id=3  status 1  pos -1   nums 0
+boat id=4  status 1  pos -1   nums 0
+robot  id 0 goods 0 gr 0x6000024e0180  berth id 9
+robot  id 1 goods 0 gr 0x6000024e0240  berth id 8
+robot  id 2 goods 0 gr 0x6000024e0150  berth id 8
+robot  id 3 goods 0 gr 0x6000024e01b0  berth id 6
+robot  id 4 goods 0 gr 0x6000024e0210  berth id 3
+robot  id 5 goods 0 gr 0x6000024e03c0  berth id 8
+robot  id 6 goods 0 gr 0x6000024e8000  berth id 8
+robot  id 7 goods 1 gr 0x6000024e8030  berth id 0
+robot  id 8 goods 0 gr 0x6000024e42a0  berth id 0
+robot  id 9 goods 0 gr 0x6000024e8600  berth id 8
+---------------------------------------
+berth  id 0 status 1 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 2 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 4 priority 4  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 0 priority 4  nums 1
+berth  id 9 status 3 priority 4  nums 0
+boat id=0  status 0  pos 8   nums 0
+boat id=1  status 0  pos 0   nums 0
+boat id=2  status 0  pos 3   nums 0
+boat id=3  status 0  pos 9   nums 0
+boat id=4  status 0  pos 6   nums 0
+robot  id 0 goods 1 gr 0x6000024e0180  berth id 9
+robot  id 1 goods 0 gr 0x6000024e0240  berth id 8
+robot  id 2 goods 0 gr 0x6000024e0150  berth id 8
+robot  id 3 goods 0 gr 0x6000024e8780  berth id 6
+robot  id 4 goods 0 gr 0x6000024e0210  berth id 3
+robot  id 5 goods 0 gr 0x6000024e03c0  berth id 8
+robot  id 6 goods 0 gr 0x6000024e8000  berth id 8
+robot  id 7 goods 1 gr 0x6000024e8030  berth id 0
+robot  id 8 goods 1 gr 0x6000024e42a0  berth id 0
+robot  id 9 goods 1 gr 0x6000024e8600  berth id 8
+---------------------------------------
+berth  id 0 status 1 priority 4  nums 3
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 2 priority 4  nums 1
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 4 priority 4  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 0 priority 4  nums 2
+berth  id 9 status 3 priority 4  nums 1
+boat id=0  status 0  pos 8   nums 0
+boat id=1  status 0  pos 0   nums 0
+boat id=2  status 0  pos 3   nums 0
+boat id=3  status 0  pos 9   nums 0
+boat id=4  status 0  pos 6   nums 0
+robot  id 0 goods 0 gr 0x6000024ea6d0  berth id 9
+robot  id 1 goods 0 gr 0x6000024e0240  berth id 8
+robot  id 2 goods 1 gr 0x6000024e0150  berth id 8
+robot  id 3 goods 1 gr 0x6000024e8780  berth id 6
+robot  id 4 goods 1 gr 0x6000024e0210  berth id 3
+robot  id 5 goods 0 gr 0x6000024e03c0  berth id 8
+robot  id 6 goods 0 gr 0x6000024e8000  berth id 8
+robot  id 7 goods 0 gr 0x6000024e56b0  berth id 0
+robot  id 8 goods 0 gr 0x6000024e6cd0  berth id 3
+robot  id 9 goods 1 gr 0x6000024e4a80  berth id 9
+---------------------------------------
+berth  id 0 status 1 priority 4  nums 4
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 2 priority 4  nums 1
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 4 priority 4  nums 2
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 0 priority 4  nums 2
+berth  id 9 status 3 priority 4  nums 3
+boat id=0  status 0  pos 8   nums 0
+boat id=1  status 0  pos 0   nums 0
+boat id=2  status 0  pos 3   nums 0
+boat id=3  status 0  pos 9   nums 0
+boat id=4  status 0  pos 6   nums 0
+robot  id 0 goods 0 gr 0x6000024e6310  berth id 9
+robot  id 1 goods 1 gr 0x6000024e0240  berth id 8
+robot  id 2 goods 1 gr 0x6000024e0150  berth id 8
+robot  id 3 goods 1 gr 0x6000024e4330  berth id 6
+robot  id 4 goods 1 gr 0x6000024e0210  berth id 3
+robot  id 5 goods 1 gr 0x6000024e03c0  berth id 8
+robot  id 6 goods 1 gr 0x6000024e8000  berth id 8
+robot  id 7 goods 0 gr 0x6000024f3ea0  berth id 3
+robot  id 8 goods 1 gr 0x6000024e6cd0  berth id 3
+robot  id 9 goods 0 gr 0x6000024e9d10  berth id 9
+---------------------------------------
+berth  id 0 status 1 priority 4  nums 4
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 2 priority 4  nums 3
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 4 priority 4  nums 4
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 0 priority 4  nums 5
+berth  id 9 status 3 priority 4  nums 3
+boat id=0  status 0  pos 8   nums 0
+boat id=1  status 0  pos 0   nums 0
+boat id=2  status 0  pos 3   nums 0
+boat id=3  status 0  pos 9   nums 0
+boat id=4  status 0  pos 6   nums 0
+robot  id 0 goods 1 gr 0x6000024e6310  berth id 9
+robot  id 1 goods 1 gr 0x6000024e0240  berth id 8
+robot  id 2 goods 0 gr 0x6000024e82a0  berth id 8
+robot  id 3 goods 0 gr 0x6000024ebc60  berth id 6
+robot  id 4 goods 1 gr 0x6000024e0210  berth id 3
+robot  id 5 goods 1 gr 0x6000024e03c0  berth id 8
+robot  id 6 goods 0 gr 0x6000024e9aa0  berth id 8
+robot  id 7 goods 0 gr 0x6000024ea850  berth id 6
+robot  id 8 goods 0 gr 0x6000024e5920  berth id 6
+robot  id 9 goods 1 gr 0x6000024e9d10  berth id 9
+---------------------------------------
+berth  id 0 status 1 priority 4  nums 4
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 2 priority 4  nums 4
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 4 priority 4  nums 5
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 0 priority 4  nums 7
+berth  id 9 status 3 priority 4  nums 5
+boat id=0  status 0  pos 8   nums 0
+boat id=1  status 0  pos 0   nums 0
+boat id=2  status 0  pos 3   nums 0
+boat id=3  status 0  pos 9   nums 0
+boat id=4  status 0  pos 6   nums 0
+robot  id 0 goods 0 gr 0x6000024f50b0  berth id 9
+robot  id 1 goods 0 gr 0x6000024e78a0  berth id 8
+robot  id 2 goods 1 gr 0x6000024e82a0  berth id 8
+robot  id 3 goods 1 gr 0x6000024ebc60  berth id 6
+robot  id 4 goods 0 gr 0x6000024e2d30  berth id 3
+robot  id 5 goods 0 gr 0x6000024ea8e0  berth id 8
+robot  id 6 goods 0 gr 0x6000024e9aa0  berth id 8
+robot  id 7 goods 0 gr 0x6000024e7870  berth id 6
+robot  id 8 goods 1 gr 0x6000024e5920  berth id 6
+robot  id 9 goods 1 gr 0x6000024e9650  berth id 9
+---------------------------------------
+berth  id 0 status 1 priority 4  nums 4
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 2 priority 4  nums 4
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 4 priority 4  nums 7
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 0 priority 4  nums 10
+berth  id 9 status 3 priority 4  nums 7
+boat id=0  status 0  pos 8   nums 0
+boat id=1  status 0  pos 0   nums 0
+boat id=2  status 0  pos 3   nums 0
+boat id=3  status 0  pos 9   nums 0
+boat id=4  status 0  pos 6   nums 0
+robot  id 0 goods 0 gr 0x6000024f0540  berth id 9
+robot  id 1 goods 0 gr 0x6000024f2fa0  berth id 8
+robot  id 2 goods 1 gr 0x6000024f46c0  berth id 8
+robot  id 3 goods 0 gr 0x6000024e9cb0  berth id 9
+robot  id 4 goods 1 gr 0x6000024e2d30  berth id 3
+robot  id 5 goods 1 gr 0x6000024ea8e0  berth id 8
+robot  id 6 goods 0 gr 0x6000024f3c30  berth id 8
+robot  id 7 goods 1 gr 0x6000024e7870  berth id 6
+robot  id 8 goods 0 gr 0x6000024f1fb0  berth id 9
+robot  id 9 goods 0 gr 0x6000024f1f20  berth id 9
+---------------------------------------
+berth  id 0 status 1 priority 4  nums 4
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 2 priority 4  nums 6
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 4 priority 4  nums 8
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 3 priority 4  nums 8
+boat id=0  status 1  pos 8   nums 13
+boat id=1  status 0  pos 0   nums 0
+boat id=2  status 0  pos 3   nums 0
+boat id=3  status 0  pos 9   nums 0
+boat id=4  status 0  pos 6   nums 0
+robot  id 0 goods 1 gr 0x6000024f0540  berth id 9
+robot  id 1 goods 0 gr 0x6000024f2fa0  berth id 8
+robot  id 2 goods 0 gr 0x6000024fb4e0  berth id 9
+robot  id 3 goods 1 gr 0x6000024e9cb0  berth id 9
+robot  id 4 goods 0 gr 0x6000024f0ea0  berth id 0
+robot  id 5 goods 0 gr 0x6000024f6e80  berth id 8
+robot  id 6 goods 0 gr 0x6000024f3c30  berth id 8
+robot  id 7 goods 0 gr 0x6000024f66a0  berth id 0
+robot  id 8 goods 1 gr 0x6000024f1fb0  berth id 9
+robot  id 9 goods 0 gr 0x6000024f40f0  berth id 9
+---------------------------------------
+berth  id 0 status 1 priority 4  nums 4
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 4 priority 4  nums 8
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 3 priority 4  nums 13
+boat id=0  status 1  pos 8   nums 13
+boat id=1  status 0  pos 0   nums 0
+boat id=2  status 1  pos 3   nums 6
+boat id=3  status 0  pos 9   nums 0
+boat id=4  status 0  pos 6   nums 0
+robot  id 0 goods 0 gr 0x6000024e32d0  berth id 9
+robot  id 1 goods 1 gr 0x6000024f2fa0  berth id 8
+robot  id 2 goods 0 gr 0x6000024fff30  berth id 9
+robot  id 3 goods 1 gr 0x6000024e25b0  berth id 6
+robot  id 4 goods 1 gr 0x6000024f0ea0  berth id 0
+robot  id 5 goods 1 gr 0x6000024f6e80  berth id 8
+robot  id 6 goods 1 gr 0x6000024f3c30  berth id 8
+robot  id 7 goods 0 gr 0x6000024f66a0  berth id 0
+robot  id 8 goods 0 gr 0x6000024f36c0  berth id 9
+robot  id 9 goods 1 gr 0x6000024f40f0  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 4 priority 4  nums 8
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 3 priority 4  nums 15
+boat id=0  status 1  pos 8   nums 16
+boat id=1  status 1  pos 0   nums 6
+boat id=2  status 1  pos 3   nums 6
+boat id=3  status 0  pos 9   nums 0
+boat id=4  status 0  pos 6   nums 0
+robot  id 0 goods 1 gr 0x6000024e32d0  berth id 9
+robot  id 1 goods 0 gr 0x6000024eba50  berth id 8
+robot  id 2 goods 0 gr 0x6000024e1d40  berth id 9
+robot  id 3 goods 1 gr 0x6000024e25b0  berth id 6
+robot  id 4 goods 0 gr 0x6000024f0540  berth id 3
+robot  id 5 goods 0 gr 0x6000024f50b0  berth id 8
+robot  id 6 goods 0 gr 0x6000024f6100  berth id 8
+robot  id 7 goods 0 gr 0x0  berth id 0
+robot  id 8 goods 1 gr 0x6000024f36c0  berth id 9
+robot  id 9 goods 0 gr 0x6000024e37e0  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 4 priority 4  nums 10
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 3 priority 4  nums 17
+boat id=0  status 1  pos 8   nums 16
+boat id=1  status 1  pos 0   nums 6
+boat id=2  status 1  pos 3   nums 7
+boat id=3  status 0  pos 9   nums 0
+boat id=4  status 0  pos 6   nums 0
+robot  id 0 goods 0 gr 0x6000024ec000  berth id 6
+robot  id 1 goods 1 gr 0x6000024eba50  berth id 8
+robot  id 2 goods 1 gr 0x6000024e1d40  berth id 9
+robot  id 3 goods 0 gr 0x6000024fcba0  berth id 5
+robot  id 4 goods 1 gr 0x6000024fdec0  berth id 3
+robot  id 5 goods 0 gr 0x6000024f50b0  berth id 8
+robot  id 6 goods 1 gr 0x6000024f6100  berth id 8
+robot  id 7 goods 0 gr 0x6000024ff750  berth id 3
+robot  id 8 goods 0 gr 0x6000024e3c30  berth id 6
+robot  id 9 goods 1 gr 0x6000024e37e0  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 3 priority 4  nums 19
+boat id=0  status 1  pos 8   nums 18
+boat id=1  status 1  pos 0   nums 6
+boat id=2  status 1  pos 3   nums 9
+boat id=3  status 0  pos 9   nums 0
+boat id=4  status 1  pos 6   nums 12
+robot  id 0 goods 1 gr 0x6000024ec000  berth id 6
+robot  id 1 goods 0 gr 0x6000024ffba0  berth id 8
+robot  id 2 goods 1 gr 0x6000024e3e70  berth id 9
+robot  id 3 goods 0 gr 0x6000024f32a0  berth id 6
+robot  id 4 goods 0 gr 0x6000024f29a0  berth id 5
+robot  id 5 goods 1 gr 0x6000024f50b0  berth id 8
+robot  id 6 goods 0 gr 0x6000024f6f40  berth id 8
+robot  id 7 goods 0 gr 0x6000024e3de0  berth id 3
+robot  id 8 goods 0 gr 0x6000024f5440  berth id 6
+robot  id 9 goods 0 gr 0x6000024ee550  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 19
+boat id=1  status 1  pos 0   nums 6
+boat id=2  status 1  pos 3   nums 9
+boat id=3  status 1  pos 9   nums 20
+boat id=4  status 1  pos 6   nums 14
+robot  id 0 goods 1 gr 0x6000024fea00  berth id 6
+robot  id 1 goods 1 gr 0x6000024ffba0  berth id 8
+robot  id 2 goods 0 gr 0x6000024e20d0  berth id 9
+robot  id 3 goods 0 gr 0x6000024e13e0  berth id 5
+robot  id 4 goods 1 gr 0x6000024f29a0  berth id 6
+robot  id 5 goods 0 gr 0x6000024e3210  berth id 8
+robot  id 6 goods 1 gr 0x6000024f6f40  berth id 8
+robot  id 7 goods 1 gr 0x6000024e3de0  berth id 3
+robot  id 8 goods 1 gr 0x6000024f5440  berth id 6
+robot  id 9 goods 1 gr 0x6000024ee550  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 23
+boat id=1  status 1  pos 0   nums 6
+boat id=2  status 1  pos 3   nums 11
+boat id=3  status 1  pos 9   nums 21
+boat id=4  status 1  pos 6   nums 17
+robot  id 0 goods 1 gr 0x6000024f0ff0  berth id 6
+robot  id 1 goods 0 gr 0x6000024ed740  berth id 8
+robot  id 2 goods 0 gr 0x6000024ebf60  berth id 9
+robot  id 3 goods 1 gr 0x6000024e13e0  berth id 6
+robot  id 4 goods 1 gr 0x6000024ec960  berth id 6
+robot  id 5 goods 0 gr 0x6000024f1290  berth id 9
+robot  id 6 goods 0 gr 0x6000024f0060  berth id 8
+robot  id 7 goods 0 gr 0x6000024e2ac0  berth id 4
+robot  id 8 goods 0 gr 0x6000024e0480  berth id 5
+robot  id 9 goods 0 gr 0x6000024f2970  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 23
+boat id=1  status 1  pos 0   nums 6
+boat id=2  status 1  pos 3   nums 11
+boat id=3  status 1  pos 9   nums 23
+boat id=4  status 1  pos 6   nums 22
+robot  id 0 goods 0 gr 0x6000024e3cf0  berth id 3
+robot  id 1 goods 1 gr 0x6000024ed740  berth id 8
+robot  id 2 goods 0 gr 0x6000024e2f70  berth id 9
+robot  id 3 goods 0 gr 0x6000024e1050  berth id 6
+robot  id 4 goods 0 gr 0x6000024e3000  berth id 0
+robot  id 5 goods 0 gr 0x6000024ec900  berth id 9
+robot  id 6 goods 1 gr 0x6000024f0060  berth id 8
+robot  id 7 goods 0 gr 0x6000024fe430  berth id 3
+robot  id 8 goods 0 gr 0x6000024f51d0  berth id 3
+robot  id 9 goods 1 gr 0x6000024f2970  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 25
+boat id=1  status 1  pos 0   nums 6
+boat id=2  status 1  pos 3   nums 12
+boat id=3  status 1  pos 9   nums 23
+boat id=4  status 1  pos 6   nums 22
+robot  id 0 goods 1 gr 0x6000024e3cf0  berth id 3
+robot  id 1 goods 1 gr 0x6000024ed740  berth id 8
+robot  id 2 goods 0 gr 0x6000024e2f70  berth id 9
+robot  id 3 goods 1 gr 0x6000024e1050  berth id 6
+robot  id 4 goods 0 gr 0x6000024e3000  berth id 0
+robot  id 5 goods 1 gr 0x6000024ec900  berth id 9
+robot  id 6 goods 0 gr 0x6000024ec870  berth id 8
+robot  id 7 goods 0 gr 0x6000024fef70  berth id 3
+robot  id 8 goods 0 gr 0x6000024f51d0  berth id 3
+robot  id 9 goods 0 gr 0x6000024ff5a0  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 26
+boat id=1  status 1  pos 0   nums 6
+boat id=2  status 1  pos 3   nums 13
+boat id=3  status 1  pos 9   nums 24
+boat id=4  status 1  pos 6   nums 24
+robot  id 0 goods 1 gr 0x6000024ec2a0  berth id 3
+robot  id 1 goods 0 gr 0x6000024e1b60  berth id 9
+robot  id 2 goods 1 gr 0x6000024e2f70  berth id 9
+robot  id 3 goods 0 gr 0x6000024ea340  berth id 6
+robot  id 4 goods 1 gr 0x6000024e3000  berth id 0
+robot  id 5 goods 0 gr 0x6000024e03c0  berth id 9
+robot  id 6 goods 0 gr 0x6000024ec870  berth id 8
+robot  id 7 goods 1 gr 0x6000024fef70  berth id 3
+robot  id 8 goods 1 gr 0x6000024f51d0  berth id 3
+robot  id 9 goods 1 gr 0x6000024ff5a0  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 26
+boat id=1  status 1  pos 0   nums 8
+boat id=2  status 1  pos 3   nums 16
+boat id=3  status 1  pos 9   nums 27
+boat id=4  status 1  pos 6   nums 25
+robot  id 0 goods 1 gr 0x6000024e9650  berth id 3
+robot  id 1 goods 0 gr 0x6000024f0360  berth id 9
+robot  id 2 goods 0 gr 0x6000024f0780  berth id 9
+robot  id 3 goods 0 gr 0x6000024e1860  berth id 9
+robot  id 4 goods 0 gr 0x6000024e1b60  berth id 0
+robot  id 5 goods 1 gr 0x6000024e03c0  berth id 9
+robot  id 6 goods 1 gr 0x6000024ec870  berth id 8
+robot  id 7 goods 0 gr 0x6000024f30c0  berth id 5
+robot  id 8 goods 0 gr 0x6000024e0e70  berth id 3
+robot  id 9 goods 0 gr 0x6000024ee4f0  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 27
+boat id=1  status 1  pos 0   nums 9
+boat id=2  status 1  pos 3   nums 17
+boat id=3  status 1  pos 9   nums 28
+boat id=4  status 1  pos 6   nums 26
+robot  id 0 goods 0 gr 0x6000024f2f40  berth id 3
+robot  id 1 goods 0 gr 0x6000024f0360  berth id 9
+robot  id 2 goods 1 gr 0x6000024f0780  berth id 9
+robot  id 3 goods 1 gr 0x6000024e1860  berth id 9
+robot  id 4 goods 1 gr 0x6000024e0240  berth id 0
+robot  id 5 goods 1 gr 0x6000024f12c0  berth id 9
+robot  id 6 goods 0 gr 0x6000024e8690  berth id 9
+robot  id 7 goods 0 gr 0x6000024ea1f0  berth id 5
+robot  id 8 goods 1 gr 0x6000024e0e70  berth id 3
+robot  id 9 goods 1 gr 0x6000024ee4f0  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 27
+boat id=1  status 1  pos 0   nums 10
+boat id=2  status 1  pos 3   nums 18
+boat id=3  status 1  pos 9   nums 33
+boat id=4  status 1  pos 6   nums 26
+robot  id 0 goods 1 gr 0x6000024f2f40  berth id 3
+robot  id 1 goods 1 gr 0x6000024f0360  berth id 9
+robot  id 2 goods 0 gr 0x6000024f2c10  berth id 9
+robot  id 3 goods 0 gr 0x6000024f11a0  berth id 9
+robot  id 4 goods 0 gr 0x6000024ea460  berth id 0
+robot  id 5 goods 0 gr 0x6000024f2d00  berth id 8
+robot  id 6 goods 0 gr 0x6000024e8300  berth id 8
+robot  id 7 goods 1 gr 0x6000024ea1f0  berth id 6
+robot  id 8 goods 0 gr 0x6000024f10e0  berth id 0
+robot  id 9 goods 0 gr 0x6000024ebe10  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 27
+boat id=1  status 1  pos 0   nums 12
+boat id=2  status 1  pos 3   nums 19
+boat id=3  status 1  pos 9   nums 34
+boat id=4  status 1  pos 6   nums 27
+robot  id 0 goods 0 gr 0x6000024ffd20  berth id 0
+robot  id 1 goods 0 gr 0x6000024f0ba0  berth id 8
+robot  id 2 goods 1 gr 0x6000024f2c10  berth id 9
+robot  id 3 goods 1 gr 0x6000024f11a0  berth id 9
+robot  id 4 goods 0 gr 0x6000024e28e0  berth id 0
+robot  id 5 goods 0 gr 0x6000024f2d00  berth id 8
+robot  id 6 goods 0 gr 0x6000024e8300  berth id 8
+robot  id 7 goods 0 gr 0x6000024f1950  berth id 5
+robot  id 8 goods 0 gr 0x6000024c54a0  berth id 0
+robot  id 9 goods 0 gr 0x6000024ebe10  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 27
+boat id=1  status 1  pos 0   nums 12
+boat id=2  status 1  pos 3   nums 19
+boat id=3  status 1  pos 9   nums 36
+boat id=4  status 1  pos 6   nums 27
+robot  id 0 goods 1 gr 0x6000024ffd20  berth id 0
+robot  id 1 goods 0 gr 0x6000024f0ba0  berth id 8
+robot  id 2 goods 0 gr 0x6000024f4de0  berth id 9
+robot  id 3 goods 0 gr 0x6000024eac40  berth id 9
+robot  id 4 goods 1 gr 0x6000024e28e0  berth id 0
+robot  id 5 goods 1 gr 0x6000024f2d00  berth id 8
+robot  id 6 goods 1 gr 0x6000024e8300  berth id 8
+robot  id 7 goods 1 gr 0x6000024f1950  berth id 6
+robot  id 8 goods 1 gr 0x6000024c54a0  berth id 0
+robot  id 9 goods 1 gr 0x6000024ebe10  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 30
+boat id=1  status 1  pos 0   nums 15
+boat id=2  status 1  pos 3   nums 19
+boat id=3  status 1  pos 9   nums 38
+boat id=4  status 1  pos 6   nums 28
+robot  id 0 goods 0 gr 0x6000024f28e0  berth id 0
+robot  id 1 goods 1 gr 0x6000024f0ba0  berth id 8
+robot  id 2 goods 0 gr 0x6000024fe580  berth id 5
+robot  id 3 goods 0 gr 0x6000024e9c80  berth id 8
+robot  id 4 goods 1 gr 0x6000024f0990  berth id 0
+robot  id 5 goods 0 gr 0x6000024ffa20  berth id 8
+robot  id 6 goods 1 gr 0x6000024fdad0  berth id 9
+robot  id 7 goods 1 gr 0x6000024ebba0  berth id 6
+robot  id 8 goods 0 gr 0x6000024e1770  berth id 0
+robot  id 9 goods 0 gr 0x6000024fd8f0  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 31
+boat id=1  status 1  pos 0   nums 17
+boat id=2  status 1  pos 3   nums 19
+boat id=3  status 1  pos 9   nums 39
+boat id=4  status 1  pos 6   nums 29
+robot  id 0 goods 0 gr 0x6000024e2040  berth id 0
+robot  id 1 goods 0 gr 0x6000024e3a20  berth id 8
+robot  id 2 goods 0 gr 0x6000024fe580  berth id 5
+robot  id 3 goods 0 gr 0x6000024e9c80  berth id 8
+robot  id 4 goods 1 gr 0x6000024f5f20  berth id 3
+robot  id 5 goods 1 gr 0x6000024ffa20  berth id 8
+robot  id 6 goods 0 gr 0x6000024e1f50  berth id 9
+robot  id 7 goods 0 gr 0x6000024ffbd0  berth id 3
+robot  id 8 goods 0 gr 0x6000024f2250  berth id 0
+robot  id 9 goods 0 gr 0x6000024fd8f0  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 32
+boat id=1  status 1  pos 0   nums 17
+boat id=2  status 1  pos 3   nums 20
+boat id=3  status 1  pos 9   nums 39
+boat id=4  status 1  pos 6   nums 29
+robot  id 0 goods 1 gr 0x6000024e2040  berth id 0
+robot  id 1 goods 1 gr 0x6000024e3a20  berth id 8
+robot  id 2 goods 1 gr 0x6000024fe580  berth id 6
+robot  id 3 goods 1 gr 0x6000024e9c80  berth id 8
+robot  id 4 goods 1 gr 0x6000024ec3f0  berth id 3
+robot  id 5 goods 0 gr 0x6000024eda70  berth id 9
+robot  id 6 goods 1 gr 0x6000024e1f50  berth id 9
+robot  id 7 goods 1 gr 0x6000024ffbd0  berth id 3
+robot  id 8 goods 1 gr 0x6000024f2250  berth id 0
+robot  id 9 goods 1 gr 0x6000024fd8f0  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 33
+boat id=1  status 1  pos 0   nums 20
+boat id=2  status 1  pos 3   nums 22
+boat id=3  status 1  pos 9   nums 42
+boat id=4  status 1  pos 6   nums 31
+robot  id 0 goods 0 gr 0x6000024e2df0  berth id 0
+robot  id 1 goods 1 gr 0x6000024e3a20  berth id 8
+robot  id 2 goods 0 gr 0x6000024e3060  berth id 6
+robot  id 3 goods 1 gr 0x6000024e9c80  berth id 8
+robot  id 4 goods 0 gr 0x6000024f6790  berth id 6
+robot  id 5 goods 0 gr 0x6000024e3720  berth id 9
+robot  id 6 goods 0 gr 0x6000024f5980  berth id 9
+robot  id 7 goods 0 gr 0x6000024fd7d0  berth id 3
+robot  id 8 goods 0 gr 0x6000024fdfb0  berth id 0
+robot  id 9 goods 0 gr 0x6000024fef10  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 35
+boat id=1  status 1  pos 0   nums 20
+boat id=2  status 1  pos 3   nums 23
+boat id=3  status 1  pos 9   nums 43
+boat id=4  status 1  pos 6   nums 32
+robot  id 0 goods 1 gr 0x6000024e2df0  berth id 0
+robot  id 1 goods 0 gr 0x6000024ee130  berth id 8
+robot  id 2 goods 1 gr 0x6000024e3060  berth id 6
+robot  id 3 goods 0 gr 0x6000024f70c0  berth id 8
+robot  id 4 goods 1 gr 0x6000024fb6c0  berth id 6
+robot  id 5 goods 1 gr 0x6000024e3720  berth id 9
+robot  id 6 goods 1 gr 0x6000024f5980  berth id 9
+robot  id 7 goods 0 gr 0x6000024f8420  berth id 3
+robot  id 8 goods 1 gr 0x6000024fdfb0  berth id 0
+robot  id 9 goods 0 gr 0x6000024f77b0  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 36
+boat id=1  status 1  pos 0   nums 22
+boat id=2  status 1  pos 3   nums 24
+boat id=3  status 1  pos 9   nums 46
+boat id=4  status 1  pos 6   nums 34
+robot  id 0 goods 0 gr 0x6000024ff1e0  berth id 0
+robot  id 1 goods 1 gr 0x6000024ee130  berth id 8
+robot  id 2 goods 0 gr 0x6000024ff540  berth id 5
+robot  id 3 goods 1 gr 0x6000024f70c0  berth id 8
+robot  id 4 goods 1 gr 0x6000024ede30  berth id 6
+robot  id 5 goods 0 gr 0x6000024f0e10  berth id 9
+robot  id 6 goods 0 gr 0x6000024f1230  berth id 9
+robot  id 7 goods 0 gr 0x6000024e0780  berth id 3
+robot  id 8 goods 0 gr 0x6000024f07b0  berth id 3
+robot  id 9 goods 0 gr 0x6000024f8000  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 38
+boat id=1  status 1  pos 0   nums 22
+boat id=2  status 1  pos 3   nums 24
+boat id=3  status 1  pos 9   nums 47
+boat id=4  status 1  pos 6   nums 35
+robot  id 0 goods 1 gr 0x6000024ff1e0  berth id 0
+robot  id 1 goods 0 gr 0x6000024c69a0  berth id 9
+robot  id 2 goods 1 gr 0x6000024ff540  berth id 6
+robot  id 3 goods 0 gr 0x6000024f6160  berth id 8
+robot  id 4 goods 0 gr 0x6000024ff240  berth id 5
+robot  id 5 goods 1 gr 0x6000024f3450  berth id 9
+robot  id 6 goods 1 gr 0x6000024f1230  berth id 9
+robot  id 7 goods 1 gr 0x6000024e0780  berth id 3
+robot  id 8 goods 1 gr 0x6000024f07b0  berth id 3
+robot  id 9 goods 1 gr 0x6000024f8000  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 40
+boat id=1  status 1  pos 0   nums 23
+boat id=2  status 1  pos 3   nums 25
+boat id=3  status 1  pos 9   nums 50
+boat id=4  status 1  pos 6   nums 37
+robot  id 0 goods 0 gr 0x6000024f7510  berth id 3
+robot  id 1 goods 0 gr 0x6000024f6ac0  berth id 9
+robot  id 2 goods 1 gr 0x6000024c7780  berth id 6
+robot  id 3 goods 1 gr 0x6000024f6160  berth id 8
+robot  id 4 goods 0 gr 0x6000024e96e0  berth id 6
+robot  id 5 goods 1 gr 0x6000024f91d0  berth id 9
+robot  id 6 goods 0 gr 0x6000024f7780  berth id 8
+robot  id 7 goods 0 gr 0x6000024f78a0  berth id 3
+robot  id 8 goods 1 gr 0x6000024f07b0  berth id 3
+robot  id 9 goods 0 gr 0x6000024fcab0  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 43
+boat id=1  status 1  pos 0   nums 23
+boat id=2  status 1  pos 3   nums 28
+boat id=3  status 1  pos 9   nums 52
+boat id=4  status 1  pos 6   nums 39
+robot  id 0 goods 0 gr 0x6000024c54a0  berth id 3
+robot  id 1 goods 0 gr 0x6000024f4d80  berth id 9
+robot  id 2 goods 0 gr 0x6000024ff810  berth id 9
+robot  id 3 goods 0 gr 0x6000024fc090  berth id 9
+robot  id 4 goods 0 gr 0x6000024ea700  berth id 6
+robot  id 5 goods 0 gr 0x6000024f71b0  berth id 9
+robot  id 6 goods 0 gr 0x6000024e9fe0  berth id 9
+robot  id 7 goods 1 gr 0x6000024f78a0  berth id 3
+robot  id 8 goods 0 gr 0x6000024f7660  berth id 3
+robot  id 9 goods 0 gr 0x6000024eabe0  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 43
+boat id=1  status 1  pos 0   nums 23
+boat id=2  status 1  pos 3   nums 29
+boat id=3  status 1  pos 9   nums 53
+boat id=4  status 1  pos 6   nums 40
+robot  id 0 goods 1 gr 0x6000024c54a0  berth id 3
+robot  id 1 goods 1 gr 0x6000024f4d80  berth id 9
+robot  id 2 goods 1 gr 0x6000024ff810  berth id 9
+robot  id 3 goods 1 gr 0x6000024fc090  berth id 9
+robot  id 4 goods 0 gr 0x6000024ea8b0  berth id 5
+robot  id 5 goods 1 gr 0x6000024f71b0  berth id 9
+robot  id 6 goods 1 gr 0x6000024e9fe0  berth id 9
+robot  id 7 goods 0 gr 0x6000024fefa0  berth id 3
+robot  id 8 goods 0 gr 0x6000024f7660  berth id 3
+robot  id 9 goods 0 gr 0x6000024fc780  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 43
+boat id=1  status 1  pos 0   nums 23
+boat id=2  status 1  pos 3   nums 30
+boat id=3  status 1  pos 9   nums 58
+boat id=4  status 1  pos 6   nums 41
+robot  id 0 goods 0 gr 0x6000024f7990  berth id 0
+robot  id 1 goods 0 gr 0x6000024eba80  berth id 8
+robot  id 2 goods 0 gr 0x6000024c7330  berth id 9
+robot  id 3 goods 0 gr 0x6000024ffd80  berth id 8
+robot  id 4 goods 0 gr 0x6000024ff2d0  berth id 9
+robot  id 5 goods 0 gr 0x6000024f4810  berth id 8
+robot  id 6 goods 0 gr 0x6000024f9350  berth id 9
+robot  id 7 goods 1 gr 0x6000024fefa0  berth id 3
+robot  id 8 goods 1 gr 0x6000024f7660  berth id 3
+robot  id 9 goods 1 gr 0x6000024fc780  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 44
+boat id=1  status 1  pos 0   nums 24
+boat id=2  status 1  pos 3   nums 31
+boat id=3  status 1  pos 9   nums 59
+boat id=4  status 1  pos 6   nums 41
+robot  id 0 goods 0 gr 0x6000024f3a20  berth id 0
+robot  id 1 goods 1 gr 0x6000024f2e20  berth id 8
+robot  id 2 goods 0 gr 0x6000024c7330  berth id 9
+robot  id 3 goods 0 gr 0x6000024ffd80  berth id 8
+robot  id 4 goods 1 gr 0x6000024ff2d0  berth id 9
+robot  id 5 goods 0 gr 0x6000024f4810  berth id 8
+robot  id 6 goods 1 gr 0x6000024f9350  berth id 9
+robot  id 7 goods 1 gr 0x6000024fefa0  berth id 3
+robot  id 8 goods 0 gr 0x6000024ecfc0  berth id 3
+robot  id 9 goods 0 gr 0x6000024c57d0  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 45
+boat id=1  status 1  pos 0   nums 24
+boat id=2  status 1  pos 3   nums 33
+boat id=3  status 1  pos 9   nums 61
+boat id=4  status 1  pos 6   nums 41
+robot  id 0 goods 1 gr 0x6000024f3a20  berth id 0
+robot  id 1 goods 0 gr 0x6000024f25e0  berth id 8
+robot  id 2 goods 1 gr 0x6000024c7330  berth id 9
+robot  id 3 goods 1 gr 0x6000024ffd80  berth id 8
+robot  id 4 goods 0 gr 0x6000024edaa0  berth id 8
+robot  id 5 goods 1 gr 0x6000024f4810  berth id 8
+robot  id 6 goods 1 gr 0x6000024eca20  berth id 9
+robot  id 7 goods 0 gr 0x6000024f21c0  berth id 5
+robot  id 8 goods 0 gr 0x6000024fff90  berth id 5
+robot  id 9 goods 0 gr 0x6000024c57d0  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 47
+boat id=1  status 1  pos 0   nums 25
+boat id=2  status 1  pos 3   nums 33
+boat id=3  status 1  pos 9   nums 63
+boat id=4  status 1  pos 6   nums 43
+robot  id 0 goods 1 gr 0x6000024f2580  berth id 0
+robot  id 1 goods 0 gr 0x6000024f25e0  berth id 8
+robot  id 2 goods 0 gr 0x6000024c65e0  berth id 8
+robot  id 3 goods 0 gr 0x6000024ef3c0  berth id 8
+robot  id 4 goods 0 gr 0x6000024edaa0  berth id 8
+robot  id 5 goods 0 gr 0x6000024f6040  berth id 8
+robot  id 6 goods 0 gr 0x6000024eff60  berth id 6
+robot  id 7 goods 0 gr 0x6000024fb750  berth id 3
+robot  id 8 goods 0 gr 0x6000024f7900  berth id 5
+robot  id 9 goods 1 gr 0x6000024c57d0  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 50
+boat id=1  status 1  pos 0   nums 26
+boat id=2  status 1  pos 3   nums 33
+boat id=3  status 1  pos 9   nums 63
+boat id=4  status 1  pos 6   nums 43
+robot  id 0 goods 0 gr 0x6000024f6100  berth id 0
+robot  id 1 goods 1 gr 0x6000024eb0f0  berth id 9
+robot  id 2 goods 0 gr 0x6000024c65e0  berth id 8
+robot  id 3 goods 1 gr 0x6000024ef3c0  berth id 8
+robot  id 4 goods 1 gr 0x6000024edaa0  berth id 8
+robot  id 5 goods 0 gr 0x6000024fa5e0  berth id 8
+robot  id 6 goods 1 gr 0x6000024eff60  berth id 6
+robot  id 7 goods 0 gr 0x6000024fb750  berth id 3
+robot  id 8 goods 1 gr 0x6000024f7900  berth id 6
+robot  id 9 goods 0 gr 0x6000024ee0a0  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 52
+boat id=1  status 1  pos 0   nums 27
+boat id=2  status 1  pos 3   nums 33
+boat id=3  status 1  pos 9   nums 63
+boat id=4  status 1  pos 6   nums 46
+robot  id 0 goods 1 gr 0x6000024f0f30  berth id 3
+robot  id 1 goods 1 gr 0x6000024eb0f0  berth id 9
+robot  id 2 goods 0 gr 0x6000024c65e0  berth id 8
+robot  id 3 goods 0 gr 0x6000024f0720  berth id 8
+robot  id 4 goods 0 gr 0x6000024f2c70  berth id 9
+robot  id 5 goods 0 gr 0x6000024fa5e0  berth id 8
+robot  id 6 goods 0 gr 0x6000024fa7c0  berth id 9
+robot  id 7 goods 1 gr 0x6000024fb750  berth id 3
+robot  id 8 goods 0 gr 0x6000024c7c00  berth id 3
+robot  id 9 goods 0 gr 0x6000024ee0a0  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 52
+boat id=1  status 1  pos 0   nums 27
+boat id=2  status 1  pos 3   nums 35
+boat id=3  status 1  pos 9   nums 65
+boat id=4  status 1  pos 6   nums 46
+robot  id 0 goods 0 gr 0x6000024ea130  berth id 3
+robot  id 1 goods 0 gr 0x6000024fed90  berth id 9
+robot  id 2 goods 1 gr 0x6000024c65e0  berth id 8
+robot  id 3 goods 0 gr 0x6000024f0720  berth id 8
+robot  id 4 goods 0 gr 0x6000024fd4d0  berth id 6
+robot  id 5 goods 1 gr 0x6000024fa5e0  berth id 8
+robot  id 6 goods 0 gr 0x6000024fa7c0  berth id 9
+robot  id 7 goods 0 gr 0x6000024fa0d0  berth id 5
+robot  id 8 goods 0 gr 0x6000024c7c00  berth id 3
+robot  id 9 goods 1 gr 0x6000024ee0a0  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 55
+boat id=1  status 1  pos 0   nums 27
+boat id=2  status 1  pos 3   nums 36
+boat id=3  status 1  pos 9   nums 66
+boat id=4  status 1  pos 6   nums 46
+robot  id 0 goods 1 gr 0x6000024ea130  berth id 3
+robot  id 1 goods 0 gr 0x6000024ef840  berth id 9
+robot  id 2 goods 0 gr 0x6000024fa700  berth id 8
+robot  id 3 goods 1 gr 0x6000024f0720  berth id 8
+robot  id 4 goods 1 gr 0x6000024fd4d0  berth id 6
+robot  id 5 goods 0 gr 0x6000024fdb60  berth id 8
+robot  id 6 goods 1 gr 0x6000024fa7c0  berth id 9
+robot  id 7 goods 1 gr 0x6000024fa0d0  berth id 6
+robot  id 8 goods 0 gr 0x6000024fb7b0  berth id 5
+robot  id 9 goods 0 gr 0x6000024efa80  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 57
+boat id=1  status 1  pos 0   nums 27
+boat id=2  status 1  pos 3   nums 37
+boat id=3  status 1  pos 9   nums 68
+boat id=4  status 1  pos 6   nums 49
+robot  id 0 goods 0 gr 0x6000024c7900  berth id 0
+robot  id 1 goods 0 gr 0x6000024f36f0  berth id 9
+robot  id 2 goods 0 gr 0x6000024f09c0  berth id 8
+robot  id 3 goods 0 gr 0x6000024fb5a0  berth id 8
+robot  id 4 goods 1 gr 0x6000024f8630  berth id 6
+robot  id 5 goods 0 gr 0x6000024fdb60  berth id 8
+robot  id 6 goods 0 gr 0x6000024ea3d0  berth id 8
+robot  id 7 goods 0 gr 0x6000024ec210  berth id 9
+robot  id 8 goods 0 gr 0x6000024ff390  berth id 5
+robot  id 9 goods 1 gr 0x6000024efa80  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 58
+boat id=1  status 1  pos 0   nums 27
+boat id=2  status 1  pos 3   nums 37
+boat id=3  status 1  pos 9   nums 70
+boat id=4  status 1  pos 6   nums 50
+robot  id 0 goods 1 gr 0x6000024c7900  berth id 0
+robot  id 1 goods 1 gr 0x6000024eb960  berth id 9
+robot  id 2 goods 0 gr 0x6000024f09c0  berth id 8
+robot  id 3 goods 0 gr 0x6000024fb5a0  berth id 8
+robot  id 4 goods 0 gr 0x6000024e8660  berth id 9
+robot  id 5 goods 1 gr 0x6000024fdb60  berth id 8
+robot  id 6 goods 0 gr 0x6000024f28b0  berth id 8
+robot  id 7 goods 1 gr 0x6000024ec210  berth id 9
+robot  id 8 goods 1 gr 0x6000024ff390  berth id 6
+robot  id 9 goods 0 gr 0x6000024eab20  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 59
+boat id=1  status 1  pos 0   nums 29
+boat id=2  status 1  pos 3   nums 37
+boat id=3  status 1  pos 9   nums 74
+boat id=4  status 1  pos 6   nums 51
+robot  id 0 goods 0 gr 0x6000024c7780  berth id 0
+robot  id 1 goods 0 gr 0x6000024c54a0  berth id 9
+robot  id 2 goods 1 gr 0x6000024f09c0  berth id 8
+robot  id 3 goods 1 gr 0x6000024fb5a0  berth id 8
+robot  id 4 goods 0 gr 0x6000024f5170  berth id 9
+robot  id 5 goods 1 gr 0x6000024fdb60  berth id 8
+robot  id 6 goods 0 gr 0x6000024f2160  berth id 8
+robot  id 7 goods 1 gr 0x6000024ea3d0  berth id 9
+robot  id 8 goods 0 gr 0x6000024f7840  berth id 6
+robot  id 9 goods 0 gr 0x6000024fc990  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 62
+boat id=1  status 1  pos 0   nums 29
+boat id=2  status 1  pos 3   nums 37
+boat id=3  status 1  pos 9   nums 77
+boat id=4  status 1  pos 6   nums 53
+robot  id 0 goods 1 gr 0x6000024c7780  berth id 0
+robot  id 1 goods 0 gr 0x6000024fc3c0  berth id 9
+robot  id 2 goods 0 gr 0x6000024fb8a0  berth id 9
+robot  id 3 goods 0 gr 0x6000024f6820  berth id 9
+robot  id 4 goods 1 gr 0x6000024f5170  berth id 9
+robot  id 5 goods 0 gr 0x6000024f4150  berth id 8
+robot  id 6 goods 1 gr 0x6000024f2160  berth id 8
+robot  id 7 goods 0 gr 0x6000024e5bf0  berth id 9
+robot  id 8 goods 0 gr 0x6000024ee610  berth id 6
+robot  id 9 goods 0 gr 0x6000024eb6c0  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 64
+boat id=1  status 1  pos 0   nums 30
+boat id=2  status 1  pos 3   nums 37
+boat id=3  status 1  pos 9   nums 80
+boat id=4  status 1  pos 6   nums 54
+robot  id 0 goods 1 gr 0x6000024f6070  berth id 0
+robot  id 1 goods 1 gr 0x6000024fc3c0  berth id 9
+robot  id 2 goods 0 gr 0x6000024fbc90  berth id 9
+robot  id 3 goods 1 gr 0x6000024f6820  berth id 9
+robot  id 4 goods 0 gr 0x6000024ef630  berth id 9
+robot  id 5 goods 0 gr 0x6000024f2850  berth id 8
+robot  id 6 goods 0 gr 0x6000024f5da0  berth id 8
+robot  id 7 goods 0 gr 0x6000024ea4f0  berth id 9
+robot  id 8 goods 0 gr 0x6000024f27f0  berth id 5
+robot  id 9 goods 1 gr 0x6000024eb6c0  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 13 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 64
+boat id=1  status 1  pos 0   nums 31
+boat id=2  status 1  pos 3   nums 37
+boat id=3  status 1  pos 9   nums 83
+boat id=4  status 1  pos 6   nums 55
+robot  id 0 goods 1 gr 0x6000024e85d0  berth id 0
+robot  id 1 goods 0 gr 0x6000024f0540  berth id 6
+robot  id 2 goods 1 gr 0x6000024fbc90  berth id 9
+robot  id 3 goods 0 gr 0x6000024fdf20  berth id 9
+robot  id 4 goods 1 gr 0x6000024ef630  berth id 9
+robot  id 5 goods 1 gr 0x6000024f2850  berth id 8
+robot  id 6 goods 1 gr 0x6000024f5da0  berth id 8
+robot  id 7 goods 1 gr 0x6000024ea4f0  berth id 9
+robot  id 8 goods 1 gr 0x6000024fd290  berth id 6
+robot  id 9 goods 0 gr 0x6000024eac70  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 0
+boat id=0  status 1  pos 8   nums 65
+boat id=1  status 1  pos 0   nums 32
+boat id=2  status 1  pos 3   nums 37
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 1  pos 6   nums 57
+robot  id 0 goods 1 gr 0x6000024e95f0  berth id 0
+robot  id 1 goods 0 gr 0x6000024f0540  berth id 6
+robot  id 2 goods 1 gr 0x6000024fbc90  berth id 9
+robot  id 3 goods 1 gr 0x6000024fdf20  berth id 6
+robot  id 4 goods 0 gr 0x0  berth id 9
+robot  id 5 goods 0 gr 0x6000024f1b90  berth id 8
+robot  id 6 goods 1 gr 0x6000024f5da0  berth id 8
+robot  id 7 goods 0 gr 0x0  berth id 9
+robot  id 8 goods 0 gr 0x6000024f5680  berth id 5
+robot  id 9 goods 0 gr 0x6000024eac70  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 1
+boat id=0  status 1  pos 8   nums 66
+boat id=1  status 1  pos 0   nums 33
+boat id=2  status 1  pos 3   nums 37
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 1  pos 6   nums 59
+robot  id 0 goods 0 gr 0x6000024e9c20  berth id 0
+robot  id 1 goods 1 gr 0x6000024ee9a0  berth id 6
+robot  id 2 goods 0 gr 0x6000024e88a0  berth id 5
+robot  id 3 goods 0 gr 0x6000024e4c00  berth id 4
+robot  id 4 goods 0 gr 0x6000024f40c0  berth id 6
+robot  id 5 goods 1 gr 0x6000024f1b90  berth id 8
+robot  id 6 goods 1 gr 0x6000024f66a0  berth id 8
+robot  id 7 goods 0 gr 0x6000024e8ed0  berth id 5
+robot  id 8 goods 1 gr 0x6000024f5680  berth id 6
+robot  id 9 goods 1 gr 0x6000024eac70  berth id 6
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 1
+boat id=0  status 1  pos 8   nums 69
+boat id=1  status 1  pos 0   nums 34
+boat id=2  status 1  pos 3   nums 38
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 1  pos 6   nums 62
+robot  id 0 goods 0 gr 0x6000024e7300  berth id 3
+robot  id 1 goods 0 gr 0x6000024e5d10  berth id 6
+robot  id 2 goods 1 gr 0x6000024e88a0  berth id 6
+robot  id 3 goods 0 gr 0x6000024f0c90  berth id 4
+robot  id 4 goods 1 gr 0x6000024f40c0  berth id 6
+robot  id 5 goods 0 gr 0x6000024fed30  berth id 8
+robot  id 6 goods 0 gr 0x6000024c6bb0  berth id 8
+robot  id 7 goods 1 gr 0x6000024e8ed0  berth id 6
+robot  id 8 goods 1 gr 0x6000024fc5d0  berth id 6
+robot  id 9 goods 1 gr 0x6000024eac70  berth id 6
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 1
+boat id=0  status 1  pos 8   nums 69
+boat id=1  status 1  pos 0   nums 34
+boat id=2  status 1  pos 3   nums 40
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 1  pos 6   nums 68
+robot  id 0 goods 0 gr 0x6000024e9170  berth id 3
+robot  id 1 goods 0 gr 0x6000024eccc0  berth id 5
+robot  id 2 goods 0 gr 0x6000024ff510  berth id 9
+robot  id 3 goods 0 gr 0x6000024f0750  berth id 3
+robot  id 4 goods 0 gr 0x6000024ff3c0  berth id 9
+robot  id 5 goods 1 gr 0x6000024fed30  berth id 8
+robot  id 6 goods 1 gr 0x6000024c6bb0  berth id 8
+robot  id 7 goods 0 gr 0x6000024ea430  berth id 6
+robot  id 8 goods 1 gr 0x6000024fff00  berth id 6
+robot  id 9 goods 0 gr 0x6000024fee50  berth id 6
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 1
+boat id=0  status 1  pos 8   nums 70
+boat id=1  status 1  pos 0   nums 34
+boat id=2  status 1  pos 3   nums 42
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 1  pos 6   nums 70
+robot  id 0 goods 0 gr 0x6000024fdcb0  berth id 0
+robot  id 1 goods 1 gr 0x6000024eccc0  berth id 6
+robot  id 2 goods 1 gr 0x6000024ff510  berth id 6
+robot  id 3 goods 0 gr 0x6000024fcd20  berth id 0
+robot  id 4 goods 0 gr 0x6000024ff3c0  berth id 9
+robot  id 5 goods 0 gr 0x6000024f0420  berth id 8
+robot  id 6 goods 1 gr 0x6000024c6bb0  berth id 8
+robot  id 7 goods 1 gr 0x6000024ea430  berth id 6
+robot  id 8 goods 1 gr 0x6000024fc8a0  berth id 6
+robot  id 9 goods 0 gr 0x6000024e5800  berth id 5
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 1
+boat id=0  status 1  pos 8   nums 72
+boat id=1  status 1  pos 0   nums 34
+boat id=2  status 1  pos 3   nums 42
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 1  pos 6   nums 74
+robot  id 0 goods 0 gr 0x6000024fdcb0  berth id 0
+robot  id 1 goods 0 gr 0x6000024e5500  berth id 5
+robot  id 2 goods 0 gr 0x6000024f4840  berth id 9
+robot  id 3 goods 1 gr 0x6000024fcd20  berth id 0
+robot  id 4 goods 1 gr 0x6000024ff3c0  berth id 8
+robot  id 5 goods 1 gr 0x6000024ecfc0  berth id 8
+robot  id 6 goods 1 gr 0x6000024eced0  berth id 8
+robot  id 7 goods 1 gr 0x6000024eec10  berth id 6
+robot  id 8 goods 0 gr 0x6000024ffb10  berth id 9
+robot  id 9 goods 1 gr 0x6000024e5800  berth id 6
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 1
+boat id=0  status 1  pos 8   nums 75
+boat id=1  status 1  pos 0   nums 36
+boat id=2  status 1  pos 3   nums 42
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 1  pos 6   nums 77
+robot  id 0 goods 0 gr 0x6000024c4390  berth id 0
+robot  id 1 goods 0 gr 0x6000024c58f0  berth id 6
+robot  id 2 goods 1 gr 0x6000024f4840  berth id 6
+robot  id 3 goods 0 gr 0x6000024efe40  berth id 0
+robot  id 4 goods 0 gr 0x6000024e6b50  berth id 8
+robot  id 5 goods 0 gr 0x6000024ec450  berth id 8
+robot  id 6 goods 1 gr 0x6000024f4f30  berth id 8
+robot  id 7 goods 0 gr 0x6000024f5620  berth id 9
+robot  id 8 goods 1 gr 0x6000024ffb10  berth id 8
+robot  id 9 goods 0 gr 0x6000024ff360  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 1
+boat id=0  status 1  pos 8   nums 78
+boat id=1  status 1  pos 0   nums 37
+boat id=2  status 1  pos 3   nums 42
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 1  pos 6   nums 80
+robot  id 0 goods 1 gr 0x6000024c4390  berth id 0
+robot  id 1 goods 0 gr 0x6000024c7030  berth id 3
+robot  id 2 goods 1 gr 0x6000024c6700  berth id 6
+robot  id 3 goods 0 gr 0x6000024c74e0  berth id 3
+robot  id 4 goods 1 gr 0x6000024e6b50  berth id 8
+robot  id 5 goods 1 gr 0x6000024ec450  berth id 8
+robot  id 6 goods 0 gr 0x6000024c49c0  berth id 9
+robot  id 7 goods 1 gr 0x6000024f5620  berth id 6
+robot  id 8 goods 0 gr 0x6000024e7f90  berth id 8
+robot  id 9 goods 1 gr 0x6000024ff360  berth id 6
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status 14 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 1
+boat id=0  status 1  pos 8   nums 81
+boat id=1  status 1  pos 0   nums 38
+boat id=2  status 1  pos 3   nums 43
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 1  pos 6   nums 84
+robot  id 0 goods 1 gr 0x6000024e9530  berth id 0
+robot  id 1 goods 0 gr 0x6000024e6c10  berth id 9
+robot  id 2 goods 0 gr 0x6000024eabe0  berth id 6
+robot  id 3 goods 0 gr 0x6000024c6580  berth id 3
+robot  id 4 goods 1 gr 0x6000024f6b50  berth id 8
+robot  id 5 goods 0 gr 0x6000024e8210  berth id 8
+robot  id 6 goods 1 gr 0x6000024c49c0  berth id 8
+robot  id 7 goods 0 gr 0x6000024c6130  berth id 9
+robot  id 8 goods 0 gr 0x6000024e7f90  berth id 3
+robot  id 9 goods 0 gr 0x6000024eb8d0  berth id 9
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 1
+boat id=0  status 1  pos 8   nums 84
+boat id=1  status 1  pos 0   nums 40
+boat id=2  status 1  pos 3   nums 44
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 0 gr 0x6000024e8a50  berth id 0
+robot  id 1 goods 1 gr 0x6000024e6c10  berth id 6
+robot  id 2 goods 1 gr 0x6000024ffe40  berth id 3
+robot  id 3 goods 0 gr 0x6000024f6fa0  berth id 4
+robot  id 4 goods 0 gr 0x6000024e69d0  berth id 8
+robot  id 5 goods 1 gr 0x6000024e8210  berth id 8
+robot  id 6 goods 0 gr 0x6000024e6eb0  berth id 8
+robot  id 7 goods 0 gr 0x6000024c6130  berth id 9
+robot  id 8 goods 0 gr 0x6000024fe220  berth id 8
+robot  id 9 goods 1 gr 0x6000024eb8d0  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status -1 priority 3  nums 1
+berth  id 9 status -1 priority 3  nums 1
+boat id=0  status 0  pos -1   nums 0
+boat id=1  status 1  pos 0   nums 41
+boat id=2  status 1  pos 3   nums 46
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 0 gr 0x6000024ead60  berth id 0
+robot  id 1 goods 1 gr 0x6000024fd9e0  berth id 3
+robot  id 2 goods 0 gr 0x6000024ecb10  berth id 3
+robot  id 3 goods 0 gr 0x6000024ff3c0  berth id 3
+robot  id 4 goods 1 gr 0x6000024e69d0  berth id 3
+robot  id 5 goods 0 gr 0x6000024ee2b0  berth id 9
+robot  id 6 goods 1 gr 0x6000024e6eb0  berth id 3
+robot  id 7 goods 1 gr 0x6000024c6130  berth id 3
+robot  id 8 goods 1 gr 0x6000024fe220  berth id 3
+robot  id 9 goods 0 gr 0x6000024c54d0  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status -1 priority 3  nums 1
+berth  id 9 status -1 priority 3  nums 1
+boat id=0  status 0  pos -1   nums 0
+boat id=1  status 1  pos 0   nums 42
+boat id=2  status 1  pos 3   nums 48
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 0 gr 0x6000024e5dd0  berth id 0
+robot  id 1 goods 0 gr 0x6000024eb240  berth id 3
+robot  id 2 goods 1 gr 0x6000024ecb10  berth id 3
+robot  id 3 goods 0 gr 0x6000024f7390  berth id 5
+robot  id 4 goods 1 gr 0x6000024e69d0  berth id 3
+robot  id 5 goods 1 gr 0x6000024ee2b0  berth id 3
+robot  id 6 goods 1 gr 0x6000024e6eb0  berth id 3
+robot  id 7 goods 1 gr 0x6000024c6130  berth id 3
+robot  id 8 goods 1 gr 0x6000024fe220  berth id 3
+robot  id 9 goods 0 gr 0x6000024c54d0  berth id 8
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status -1 priority 3  nums 1
+berth  id 9 status -1 priority 3  nums 1
+boat id=0  status 0  pos -1   nums 0
+boat id=1  status 1  pos 0   nums 42
+boat id=2  status 1  pos 3   nums 50
+boat id=3  status 0  pos 3   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 1 gr 0x6000024e5dd0  berth id 0
+robot  id 1 goods 1 gr 0x6000024eb240  berth id 3
+robot  id 2 goods 0 gr 0x6000024f4a20  berth id 5
+robot  id 3 goods 1 gr 0x6000024f7390  berth id 3
+robot  id 4 goods 1 gr 0x6000024e69d0  berth id 3
+robot  id 5 goods 1 gr 0x6000024ee2b0  berth id 3
+robot  id 6 goods 1 gr 0x6000024e6eb0  berth id 3
+robot  id 7 goods 0 gr 0x6000024eeaf0  berth id 5
+robot  id 8 goods 1 gr 0x6000024fe220  berth id 3
+robot  id 9 goods 1 gr 0x6000024c54d0  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status -1 priority 3  nums 1
+berth  id 9 status -1 priority 3  nums 1
+boat id=0  status 0  pos -1   nums 0
+boat id=1  status 1  pos 0   nums 43
+boat id=2  status 1  pos 3   nums 55
+boat id=3  status 0  pos 3   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 0 gr 0x6000024f6df0  berth id 0
+robot  id 1 goods 0 gr 0x6000024ea2e0  berth id 0
+robot  id 2 goods 1 gr 0x6000024f4a20  berth id 3
+robot  id 3 goods 0 gr 0x6000024ead60  berth id 6
+robot  id 4 goods 0 gr 0x6000024eb060  berth id 0
+robot  id 5 goods 1 gr 0x6000024ee2b0  berth id 3
+robot  id 6 goods 1 gr 0x6000024e6eb0  berth id 3
+robot  id 7 goods 1 gr 0x0  berth id 3
+robot  id 8 goods 0 gr 0x6000024ee8b0  berth id 3
+robot  id 9 goods 1 gr 0x6000024c54d0  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status -1 priority 3  nums 1
+berth  id 9 status -1 priority 3  nums 1
+boat id=0  status 0  pos -1   nums 0
+boat id=1  status 1  pos 0   nums 44
+boat id=2  status 1  pos 3   nums 60
+boat id=3  status 0  pos 3   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 0 gr 0x6000024ff360  berth id 0
+robot  id 1 goods 0 gr 0x6000024ea2e0  berth id 0
+robot  id 2 goods 0 gr 0x6000024ecb70  berth id 3
+robot  id 3 goods 0 gr 0x0  berth id 3
+robot  id 4 goods 1 gr 0x6000024eb060  berth id 0
+robot  id 5 goods 0 gr 0x0  berth id 3
+robot  id 6 goods 0 gr 0x0  berth id 3
+robot  id 7 goods 0 gr 0x0  berth id 3
+robot  id 8 goods 0 gr 0x0  berth id 3
+robot  id 9 goods 1 gr 0x6000024c54d0  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status -1 priority 3  nums 1
+berth  id 9 status -1 priority 3  nums 1
+boat id=0  status 0  pos -1   nums 0
+boat id=1  status 1  pos 0   nums 46
+boat id=2  status 1  pos 3   nums 61
+boat id=3  status 0  pos 3   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 1 gr 0x6000024ff360  berth id 0
+robot  id 1 goods 1 gr 0x6000024ea2e0  berth id 0
+robot  id 2 goods 0 gr 0x6000024ea970  berth id 5
+robot  id 3 goods 0 gr 0x6000024e8240  berth id 0
+robot  id 4 goods 0 gr 0x6000024f28e0  berth id 0
+robot  id 5 goods 0 gr 0x6000024f04e0  berth id 3
+robot  id 6 goods 0 gr 0x6000024ecde0  berth id 6
+robot  id 7 goods 1 gr 0x6000024eb960  berth id 3
+robot  id 8 goods 0 gr 0x6000024e91d0  berth id 3
+robot  id 9 goods 0 gr 0x6000024ee970  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status -1 priority 3  nums 1
+berth  id 9 status -1 priority 3  nums 1
+boat id=0  status 0  pos -1   nums 0
+boat id=1  status 1  pos 0   nums 48
+boat id=2  status 1  pos 3   nums 63
+boat id=3  status 0  pos 3   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 0 gr 0x6000024f0570  berth id 0
+robot  id 1 goods 0 gr 0x6000024f2730  berth id 0
+robot  id 2 goods 0 gr 0x6000024c5e30  berth id 5
+robot  id 3 goods 1 gr 0x6000024e8240  berth id 0
+robot  id 4 goods 1 gr 0x6000024f28e0  berth id 0
+robot  id 5 goods 1 gr 0x6000024f04e0  berth id 3
+robot  id 6 goods 1 gr 0x6000024ecde0  berth id 3
+robot  id 7 goods 0 gr 0x6000024e9f80  berth id 3
+robot  id 8 goods 1 gr 0x6000024e91d0  berth id 3
+robot  id 9 goods 1 gr 0x6000024ee970  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status -1 priority 3  nums 1
+berth  id 9 status -1 priority 3  nums 1
+boat id=0  status 0  pos -1   nums 0
+boat id=1  status 1  pos 0   nums 51
+boat id=2  status 1  pos 3   nums 66
+boat id=3  status 0  pos 3   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 0 gr 0x6000024f0570  berth id 0
+robot  id 1 goods 1 gr 0x6000024f2730  berth id 0
+robot  id 2 goods 1 gr 0x6000024c5e30  berth id 3
+robot  id 3 goods 0 gr 0x6000024f7db0  berth id 0
+robot  id 4 goods 0 gr 0x6000024e95c0  berth id 0
+robot  id 5 goods 0 gr 0x6000024f3480  berth id 5
+robot  id 6 goods 0 gr 0x6000024c44e0  berth id 6
+robot  id 7 goods 1 gr 0x6000024e9f80  berth id 3
+robot  id 8 goods 0 gr 0x6000024f0390  berth id 3
+robot  id 9 goods 0 gr 0x6000024e8930  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 0 priority 4  nums 1
+berth  id 9 status -1 priority 3  nums 1
+boat id=0  status 0  pos 8   nums 0
+boat id=1  status 1  pos 0   nums 52
+boat id=2  status 1  pos 3   nums 69
+boat id=3  status 0  pos 3   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 1 gr 0x6000024f0570  berth id 0
+robot  id 1 goods 0 gr 0x6000024f6a90  berth id 0
+robot  id 2 goods 0 gr 0x6000024c64c0  berth id 3
+robot  id 3 goods 0 gr 0x6000024f7db0  berth id 0
+robot  id 4 goods 0 gr 0x6000024e95c0  berth id 0
+robot  id 5 goods 1 gr 0x6000024f3480  berth id 3
+robot  id 6 goods 1 gr 0x6000024c44e0  berth id 3
+robot  id 7 goods 0 gr 0x6000024eb1b0  berth id 5
+robot  id 8 goods 0 gr 0x6000024ec630  berth id 0
+robot  id 9 goods 1 gr 0x6000024e8930  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 0 priority 4  nums 1
+berth  id 9 status 4 priority 4  nums 1
+boat id=0  status 0  pos 8   nums 0
+boat id=1  status 1  pos 0   nums 54
+boat id=2  status 1  pos 3   nums 72
+boat id=3  status 0  pos 3   nums 0
+boat id=4  status 0  pos 9   nums 0
+robot  id 0 goods 0 gr 0x6000024fdb30  berth id 0
+robot  id 1 goods 0 gr 0x6000024edb60  berth id 0
+robot  id 2 goods 1 gr 0x6000024c64c0  berth id 3
+robot  id 3 goods 1 gr 0x6000024f7db0  berth id 0
+robot  id 4 goods 1 gr 0x6000024e95c0  berth id 0
+robot  id 5 goods 0 gr 0x6000024e8120  berth id 3
+robot  id 6 goods 0 gr 0x6000024ec330  berth id 3
+robot  id 7 goods 0 gr 0x6000024c77b0  berth id 3
+robot  id 8 goods 0 gr 0x6000024ec630  berth id 0
+robot  id 9 goods 0 gr 0x6000024e93e0  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 0 priority 4  nums 1
+berth  id 9 status 4 priority 4  nums 1
+boat id=0  status 0  pos 8   nums 0
+boat id=1  status 1  pos 0   nums 56
+boat id=2  status 1  pos 3   nums 73
+boat id=3  status 2  pos 3   nums 0
+boat id=4  status 0  pos 9   nums 0
+robot  id 0 goods 1 gr 0x6000024fdb30  berth id 0
+robot  id 1 goods 1 gr 0x6000024edb60  berth id 0
+robot  id 2 goods 0 gr 0x6000024eb960  berth id 0
+robot  id 3 goods 0 gr 0x6000024edce0  berth id 0
+robot  id 4 goods 0 gr 0x6000024ea250  berth id 0
+robot  id 5 goods 1 gr 0x6000024e8120  berth id 3
+robot  id 6 goods 1 gr 0x6000024ec330  berth id 3
+robot  id 7 goods 1 gr 0x6000024c77b0  berth id 3
+robot  id 8 goods 1 gr 0x6000024ec630  berth id 0
+robot  id 9 goods 1 gr 0x6000024e93e0  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 0 priority 4  nums 1
+berth  id 9 status 4 priority 4  nums 1
+boat id=0  status 0  pos 8   nums 0
+boat id=1  status 1  pos 0   nums 60
+boat id=2  status 1  pos 3   nums 75
+boat id=3  status 2  pos 3   nums 0
+boat id=4  status 0  pos 9   nums 0
+robot  id 0 goods 0 gr 0x6000024f6970  berth id 3
+robot  id 1 goods 0 gr 0x6000024edec0  berth id 0
+robot  id 2 goods 0 gr 0x6000024eb960  berth id 0
+robot  id 3 goods 1 gr 0x6000024edce0  berth id 0
+robot  id 4 goods 1 gr 0x6000024ea250  berth id 0
+robot  id 5 goods 0 gr 0x6000024efc30  berth id 5
+robot  id 6 goods 1 gr 0x6000024ec330  berth id 3
+robot  id 7 goods 0 gr 0x6000024edf20  berth id 6
+robot  id 8 goods 0 gr 0x6000024e9530  berth id 0
+robot  id 9 goods 0 gr 0x6000024ed140  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 0 priority 4  nums 1
+berth  id 9 status 4 priority 4  nums 1
+boat id=0  status 0  pos 8   nums 0
+boat id=1  status 1  pos 0   nums 65
+boat id=2  status 1  pos 3   nums 77
+boat id=3  status 2  pos 3   nums 0
+boat id=4  status 0  pos 9   nums 0
+robot  id 0 goods 1 gr 0x6000024f6970  berth id 3
+robot  id 1 goods 1 gr 0x0  berth id 0
+robot  id 2 goods 0 gr 0x6000024ff4e0  berth id 3
+robot  id 3 goods 0 gr 0x6000024ef120  berth id 0
+robot  id 4 goods 0 gr 0x6000024f74b0  berth id 0
+robot  id 5 goods 0 gr 0x6000024f7ed0  berth id 0
+robot  id 6 goods 0 gr 0x6000024e94a0  berth id 3
+robot  id 7 goods 1 gr 0x6000024edf20  berth id 9
+robot  id 8 goods 0 gr 0x6000024fc540  berth id 0
+robot  id 9 goods 0 gr 0x6000024ed140  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 0 priority 4  nums 1
+berth  id 9 status 4 priority 4  nums 3
+boat id=0  status 0  pos 8   nums 0
+boat id=1  status 1  pos 0   nums 65
+boat id=2  status 1  pos 3   nums 79
+boat id=3  status 2  pos 3   nums 0
+boat id=4  status 0  pos 9   nums 0
+robot  id 0 goods 0 gr 0x6000024e4390  berth id 3
+robot  id 1 goods 0 gr 0x6000024eb9f0  berth id 3
+robot  id 2 goods 0 gr 0x6000024eb360  berth id 5
+robot  id 3 goods 0 gr 0x6000024ef120  berth id 0
+robot  id 4 goods 1 gr 0x6000024f74b0  berth id 0
+robot  id 5 goods 0 gr 0x6000024f7ed0  berth id 0
+robot  id 6 goods 1 gr 0x6000024e94a0  berth id 3
+robot  id 7 goods 0 gr 0x6000024f46f0  berth id 9
+robot  id 8 goods 0 gr 0x6000024fc540  berth id 0
+robot  id 9 goods 1 gr 0x6000024ed140  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 0 priority 4  nums 1
+berth  id 9 status 4 priority 4  nums 5
+boat id=0  status 0  pos 8   nums 0
+boat id=1  status 1  pos 0   nums 68
+boat id=2  status 1  pos 3   nums 80
+boat id=3  status 2  pos 3   nums 0
+boat id=4  status 0  pos 9   nums 0
+robot  id 0 goods 1 gr 0x6000024e4390  berth id 3
+robot  id 1 goods 1 gr 0x6000024eb9f0  berth id 3
+robot  id 2 goods 1 gr 0x6000024eb360  berth id 3
+robot  id 3 goods 1 gr 0x6000024ef120  berth id 0
+robot  id 4 goods 0 gr 0x6000024e6d60  berth id 0
+robot  id 5 goods 0 gr 0x6000024e92f0  berth id 3
+robot  id 6 goods 0 gr 0x6000024e6b50  berth id 5
+robot  id 7 goods 0 gr 0x6000024c7990  berth id 8
+robot  id 8 goods 1 gr 0x6000024fc540  berth id 0
+robot  id 9 goods 0 gr 0x6000024f4f00  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 12 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 0 priority 4  nums 4
+berth  id 9 status 4 priority 4  nums 5
+boat id=0  status 0  pos 8   nums 0
+boat id=1  status 1  pos 0   nums 71
+boat id=2  status 1  pos 3   nums 83
+boat id=3  status 2  pos 3   nums 0
+boat id=4  status 0  pos 9   nums 0
+robot  id 0 goods 0 gr 0x6000024ee520  berth id 3
+robot  id 1 goods 0 gr 0x6000024eb870  berth id 3
+robot  id 2 goods 1 gr 0x6000024e6d90  berth id 9
+robot  id 3 goods 0 gr 0x6000024c6a30  berth id 5
+robot  id 4 goods 1 gr 0x6000024e6d60  berth id 0
+robot  id 5 goods 1 gr 0x6000024e92f0  berth id 3
+robot  id 6 goods 1 gr 0x6000024e6b50  berth id 3
+robot  id 7 goods 0 gr 0x6000024f7c00  berth id 8
+robot  id 8 goods 1 gr 0x6000024c4300  berth id 3
+robot  id 9 goods 0 gr 0x6000024fec40  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 4 priority 4  nums 6
+boat id=0  status 1  pos 8   nums 5
+boat id=1  status 1  pos 0   nums 72
+boat id=2  status 0  pos -1   nums 0
+boat id=3  status 1  pos 3   nums 1
+boat id=4  status 0  pos 9   nums 0
+robot  id 0 goods 0 gr 0x6000024ee520  berth id 3
+robot  id 1 goods 1 gr 0x6000024eb870  berth id 3
+robot  id 2 goods 0 gr 0x6000024f50b0  berth id 9
+robot  id 3 goods 1 gr 0x6000024c6a30  berth id 3
+robot  id 4 goods 0 gr 0x6000024e7d80  berth id 0
+robot  id 5 goods 0 gr 0x6000024f2b80  berth id 3
+robot  id 6 goods 1 gr 0x6000024c6ee0  berth id 3
+robot  id 7 goods 1 gr 0x6000024c5110  berth id 8
+robot  id 8 goods 0 gr 0x6000024e5c50  berth id 0
+robot  id 9 goods 0 gr 0x6000024fec40  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 4 priority 4  nums 7
+boat id=0  status 1  pos 8   nums 6
+boat id=1  status 1  pos 0   nums 72
+boat id=2  status 0  pos -1   nums 0
+boat id=3  status 1  pos 3   nums 3
+boat id=4  status 0  pos 9   nums 0
+robot  id 0 goods 1 gr 0x6000024ee520  berth id 3
+robot  id 1 goods 1 gr 0x6000024eb870  berth id 3
+robot  id 2 goods 1 gr 0x6000024f5860  berth id 9
+robot  id 3 goods 0 gr 0x6000024e55f0  berth id 3
+robot  id 4 goods 1 gr 0x6000024e7d80  berth id 0
+robot  id 5 goods 1 gr 0x6000024f2b80  berth id 3
+robot  id 6 goods 0 gr 0x6000024c6b20  berth id 3
+robot  id 7 goods 0 gr 0x6000024ffe10  berth id 9
+robot  id 8 goods 1 gr 0x6000024e5c50  berth id 0
+robot  id 9 goods 1 gr 0x6000024fec40  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 4 priority 4  nums 9
+boat id=0  status 1  pos 8   nums 6
+boat id=1  status 1  pos 0   nums 75
+boat id=2  status 0  pos -1   nums 0
+boat id=3  status 1  pos 3   nums 7
+boat id=4  status 0  pos 9   nums 0
+robot  id 0 goods 0 gr 0x6000024c5140  berth id 5
+robot  id 1 goods 0 gr 0x6000024c6a00  berth id 0
+robot  id 2 goods 1 gr 0x6000024f3390  berth id 9
+robot  id 3 goods 0 gr 0x6000024ffb40  berth id 3
+robot  id 4 goods 0 gr 0x6000024e4ed0  berth id 0
+robot  id 5 goods 0 gr 0x0  berth id 3
+robot  id 6 goods 1 gr 0x6000024c6b20  berth id 3
+robot  id 7 goods 0 gr 0x6000024f0e10  berth id 9
+robot  id 8 goods 0 gr 0x6000024e9d70  berth id 0
+robot  id 9 goods 0 gr 0x6000024eb060  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 4 priority 4  nums 11
+boat id=0  status 1  pos 8   nums 6
+boat id=1  status 1  pos 0   nums 76
+boat id=2  status 0  pos -1   nums 0
+boat id=3  status 1  pos 3   nums 8
+boat id=4  status 0  pos 9   nums 0
+robot  id 0 goods 1 gr 0x6000024c5140  berth id 3
+robot  id 1 goods 0 gr 0x6000024f19b0  berth id 5
+robot  id 2 goods 1 gr 0x6000024e5a40  berth id 9
+robot  id 3 goods 0 gr 0x6000024ffb40  berth id 3
+robot  id 4 goods 1 gr 0x6000024e4ed0  berth id 0
+robot  id 5 goods 0 gr 0x6000024eb090  berth id 5
+robot  id 6 goods 0 gr 0x6000024f3930  berth id 0
+robot  id 7 goods 0 gr 0x6000024f1a10  berth id 8
+robot  id 8 goods 0 gr 0x6000024e9d70  berth id 0
+robot  id 9 goods 0 gr 0x6000024eb060  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 7
+boat id=1  status 1  pos 0   nums 77
+boat id=2  status 0  pos -1   nums 0
+boat id=3  status 1  pos 3   nums 9
+boat id=4  status 1  pos 9   nums 12
+robot  id 0 goods 0 gr 0x6000024f2bb0  berth id 3
+robot  id 1 goods 1 gr 0x6000024f19b0  berth id 3
+robot  id 2 goods 1 gr 0x6000024ecae0  berth id 9
+robot  id 3 goods 1 gr 0x6000024ffb40  berth id 3
+robot  id 4 goods 0 gr 0x6000024f6ac0  berth id 3
+robot  id 5 goods 1 gr 0x6000024eb090  berth id 3
+robot  id 6 goods 0 gr 0x6000024f3930  berth id 0
+robot  id 7 goods 1 gr 0x6000024c63a0  berth id 9
+robot  id 8 goods 1 gr 0x6000024e9d70  berth id 0
+robot  id 9 goods 1 gr 0x6000024eb060  berth id 0
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 7
+boat id=1  status 1  pos 0   nums 79
+boat id=2  status 0  pos -1   nums 0
+boat id=3  status 1  pos 3   nums 12
+boat id=4  status 1  pos 9   nums 14
+robot  id 0 goods 1 gr 0x6000024f2bb0  berth id 3
+robot  id 1 goods 0 gr 0x6000024e8bd0  berth id 6
+robot  id 2 goods 1 gr 0x6000024f64f0  berth id 9
+robot  id 3 goods 0 gr 0x6000024f1320  berth id 6
+robot  id 4 goods 0 gr 0x6000024f6ac0  berth id 3
+robot  id 5 goods 0 gr 0x6000024eab50  berth id 0
+robot  id 6 goods 1 gr 0x6000024f3930  berth id 0
+robot  id 7 goods 1 gr 0x6000024eb2d0  berth id 9
+robot  id 8 goods 0 gr 0x6000024c6700  berth id 3
+robot  id 9 goods 0 gr 0x6000024ebb10  berth id 3
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 7
+boat id=1  status 1  pos 0   nums 80
+boat id=2  status 0  pos -1   nums 0
+boat id=3  status 1  pos 3   nums 12
+boat id=4  status 1  pos 9   nums 16
+robot  id 0 goods 1 gr 0x6000024f2bb0  berth id 3
+robot  id 1 goods 1 gr 0x6000024e8bd0  berth id 9
+robot  id 2 goods 0 gr 0x6000024c68e0  berth id 9
+robot  id 3 goods 0 gr 0x6000024f1320  berth id 6
+robot  id 4 goods 1 gr 0x6000024f6ac0  berth id 3
+robot  id 5 goods 1 gr 0x6000024eab50  berth id 0
+robot  id 6 goods 1 gr 0x6000024e93b0  berth id 0
+robot  id 7 goods 0 gr 0x6000024c4de0  berth id 9
+robot  id 8 goods 0 gr 0x6000024c6700  berth id 3
+robot  id 9 goods 0 gr 0x6000024ebb10  berth id 3
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 7
+boat id=1  status 1  pos 0   nums 83
+boat id=2  status 0  pos -1   nums 0
+boat id=3  status 1  pos 3   nums 14
+boat id=4  status 1  pos 9   nums 18
+robot  id 0 goods 0 gr 0x6000024f3c60  berth id 5
+robot  id 1 goods 0 gr 0x6000024eb750  berth id 9
+robot  id 2 goods 1 gr 0x6000024c68e0  berth id 9
+robot  id 3 goods 1 gr 0x6000024f1320  berth id 9
+robot  id 4 goods 0 gr 0x6000024f34b0  berth id 3
+robot  id 5 goods 0 gr 0x6000024c7d50  berth id 0
+robot  id 6 goods 0 gr 0x6000024e8ed0  berth id 3
+robot  id 7 goods 0 gr 0x6000024e6ac0  berth id 9
+robot  id 8 goods 1 gr 0x6000024c6700  berth id 3
+robot  id 9 goods 1 gr 0x6000024ebb10  berth id 3
+---------------------------------------
+berth  id 0 status 11 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 7
+boat id=1  status 1  pos 0   nums 84
+boat id=2  status 0  pos -1   nums 0
+boat id=3  status 1  pos 3   nums 14
+boat id=4  status 1  pos 9   nums 22
+robot  id 0 goods 1 gr 0x6000024f3c60  berth id 3
+robot  id 1 goods 0 gr 0x6000024f1ef0  berth id 8
+robot  id 2 goods 1 gr 0x6000024e6640  berth id 9
+robot  id 3 goods 1 gr 0x6000024e7180  berth id 9
+robot  id 4 goods 1 gr 0x6000024f34b0  berth id 3
+robot  id 5 goods 0 gr 0x6000024c5a10  berth id 0
+robot  id 6 goods 0 gr 0x6000024e8ed0  berth id 3
+robot  id 7 goods 0 gr 0x6000024c5e60  berth id 8
+robot  id 8 goods 1 gr 0x6000024c6700  berth id 3
+robot  id 9 goods 1 gr 0x6000024ebb10  berth id 3
+---------------------------------------
+berth  id 0 status 2 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 9
+boat id=1  status 0  pos -1   nums 0
+boat id=2  status 0  pos 0   nums 0
+boat id=3  status 1  pos 3   nums 18
+boat id=4  status 1  pos 9   nums 24
+robot  id 0 goods 0 gr 0x6000024c6fd0  berth id 0
+robot  id 1 goods 0 gr 0x6000024e9e90  berth id 8
+robot  id 2 goods 1 gr 0x6000024c41e0  berth id 9
+robot  id 3 goods 0 gr 0x6000024c6ee0  berth id 9
+robot  id 4 goods 0 gr 0x6000024f4ff0  berth id 0
+robot  id 5 goods 0 gr 0x6000024ec1b0  berth id 0
+robot  id 6 goods 1 gr 0x6000024e8ed0  berth id 3
+robot  id 7 goods 0 gr 0x6000024e5950  berth id 9
+robot  id 8 goods 1 gr 0x6000024ed7a0  berth id 3
+robot  id 9 goods 1 gr 0x6000024efd50  berth id 3
+---------------------------------------
+berth  id 0 status 2 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 9
+boat id=1  status 0  pos -1   nums 0
+boat id=2  status 0  pos 0   nums 0
+boat id=3  status 1  pos 3   nums 20
+boat id=4  status 1  pos 9   nums 27
+robot  id 0 goods 1 gr 0x6000024c6fd0  berth id 0
+robot  id 1 goods 1 gr 0x6000024e9e90  berth id 8
+robot  id 2 goods 0 gr 0x6000024c6be0  berth id 8
+robot  id 3 goods 1 gr 0x6000024c6ee0  berth id 9
+robot  id 4 goods 0 gr 0x6000024f4ff0  berth id 0
+robot  id 5 goods 1 gr 0x6000024ec1b0  berth id 0
+robot  id 6 goods 1 gr 0x6000024e8ed0  berth id 3
+robot  id 7 goods 1 gr 0x6000024c4120  berth id 9
+robot  id 8 goods 0 gr 0x6000024e7870  berth id 3
+robot  id 9 goods 0 gr 0x6000024e6460  berth id 3
+---------------------------------------
+berth  id 0 status 2 priority 4  nums 2
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 11
+boat id=1  status 0  pos -1   nums 0
+boat id=2  status 0  pos 0   nums 0
+boat id=3  status 1  pos 3   nums 21
+boat id=4  status 1  pos 9   nums 28
+robot  id 0 goods 1 gr 0x6000024f11d0  berth id 0
+robot  id 1 goods 1 gr 0x6000024ef390  berth id 8
+robot  id 2 goods 0 gr 0x6000024e9290  berth id 8
+robot  id 3 goods 1 gr 0x6000024e43f0  berth id 9
+robot  id 4 goods 0 gr 0x6000024f4ff0  berth id 0
+robot  id 5 goods 0 gr 0x6000024f6a30  berth id 0
+robot  id 6 goods 0 gr 0x6000024f0e70  berth id 3
+robot  id 7 goods 1 gr 0x6000024c4120  berth id 9
+robot  id 8 goods 1 gr 0x6000024e7870  berth id 3
+robot  id 9 goods 1 gr 0x6000024e6460  berth id 3
+---------------------------------------
+berth  id 0 status 2 priority 4  nums 4
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 13
+boat id=1  status 0  pos -1   nums 0
+boat id=2  status 0  pos 0   nums 0
+boat id=3  status 1  pos 3   nums 23
+boat id=4  status 1  pos 9   nums 30
+robot  id 0 goods 0 gr 0x6000024e8ed0  berth id 0
+robot  id 1 goods 1 gr 0x6000024eec10  berth id 8
+robot  id 2 goods 0 gr 0x6000024c5c50  berth id 8
+robot  id 3 goods 0 gr 0x6000024f1cb0  berth id 9
+robot  id 4 goods 1 gr 0x6000024f4ff0  berth id 0
+robot  id 5 goods 1 gr 0x6000024f6a30  berth id 0
+robot  id 6 goods 1 gr 0x6000024f0e70  berth id 3
+robot  id 7 goods 1 gr 0x6000024e8d80  berth id 9
+robot  id 8 goods 0 gr 0x6000024c7db0  berth id 6
+robot  id 9 goods 0 gr 0x6000024f7c90  berth id 5
+---------------------------------------
+berth  id 0 status 2 priority 4  nums 6
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 14
+boat id=1  status 0  pos -1   nums 0
+boat id=2  status 0  pos 0   nums 0
+boat id=3  status 1  pos 3   nums 26
+boat id=4  status 1  pos 9   nums 32
+robot  id 0 goods 1 gr 0x6000024e8ed0  berth id 0
+robot  id 1 goods 0 gr 0x6000024ed050  berth id 8
+robot  id 2 goods 1 gr 0x6000024c5c50  berth id 8
+robot  id 3 goods 0 gr 0x6000024ea760  berth id 9
+robot  id 4 goods 0 gr 0x6000024eb180  berth id 0
+robot  id 5 goods 0 gr 0x6000024c7c60  berth id 0
+robot  id 6 goods 1 gr 0x6000024f2580  berth id 6
+robot  id 7 goods 0 gr 0x6000024e5710  berth id 9
+robot  id 8 goods 0 gr 0x6000024e6250  berth id 3
+robot  id 9 goods 1 gr 0x6000024f7c90  berth id 3
+---------------------------------------
+berth  id 0 status 2 priority 4  nums 9
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 16
+boat id=1  status 0  pos -1   nums 0
+boat id=2  status 0  pos 0   nums 0
+boat id=3  status 1  pos 3   nums 27
+boat id=4  status 1  pos 9   nums 33
+robot  id 0 goods 0 gr 0x6000024f5860  berth id 0
+robot  id 1 goods 0 gr 0x6000024c6ca0  berth id 8
+robot  id 2 goods 0 gr 0x6000024e5770  berth id 8
+robot  id 3 goods 1 gr 0x6000024ea760  berth id 9
+robot  id 4 goods 0 gr 0x6000024f4720  berth id 0
+robot  id 5 goods 0 gr 0x6000024e8960  berth id 3
+robot  id 6 goods 1 gr 0x6000024f2580  berth id 3
+robot  id 7 goods 0 gr 0x6000024f7600  berth id 9
+robot  id 8 goods 1 gr 0x6000024e6250  berth id 3
+robot  id 9 goods 1 gr 0x6000024f3030  berth id 3
+---------------------------------------
+berth  id 0 status 2 priority 4  nums 10
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 16
+boat id=1  status 0  pos -1   nums 0
+boat id=2  status 0  pos 0   nums 0
+boat id=3  status 1  pos 3   nums 31
+boat id=4  status 1  pos 9   nums 35
+robot  id 0 goods 1 gr 0x6000024f5860  berth id 0
+robot  id 1 goods 1 gr 0x6000024c6ca0  berth id 8
+robot  id 2 goods 1 gr 0x6000024e5770  berth id 8
+robot  id 3 goods 0 gr 0x6000024c6b20  berth id 6
+robot  id 4 goods 0 gr 0x6000024f7090  berth id 3
+robot  id 5 goods 0 gr 0x6000024e8960  berth id 3
+robot  id 6 goods 0 gr 0x6000024f05d0  berth id 5
+robot  id 7 goods 0 gr 0x6000024e58c0  berth id 9
+robot  id 8 goods 1 gr 0x6000024f6a30  berth id 3
+robot  id 9 goods 0 gr 0x6000024e98c0  berth id 3
+---------------------------------------
+berth  id 0 status 2 priority 4  nums 11
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 18
+boat id=1  status 0  pos -1   nums 0
+boat id=2  status 0  pos 0   nums 0
+boat id=3  status 1  pos 3   nums 34
+boat id=4  status 1  pos 9   nums 36
+robot  id 0 goods 0 gr 0x6000024efd80  berth id 0
+robot  id 1 goods 0 gr 0x6000024e74b0  berth id 9
+robot  id 2 goods 0 gr 0x6000024f1530  berth id 8
+robot  id 3 goods 0 gr 0x6000024e4ed0  berth id 3
+robot  id 4 goods 1 gr 0x6000024f7090  berth id 3
+robot  id 5 goods 0 gr 0x6000024f0990  berth id 6
+robot  id 6 goods 1 gr 0x6000024f05d0  berth id 3
+robot  id 7 goods 0 gr 0x6000024e56e0  berth id 9
+robot  id 8 goods 1 gr 0x6000024e5ce0  berth id 3
+robot  id 9 goods 1 gr 0x6000024e98c0  berth id 3
+---------------------------------------
+berth  id 0 status 2 priority 4  nums 11
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 18
+boat id=1  status 0  pos -1   nums 0
+boat id=2  status 0  pos 0   nums 0
+boat id=3  status 1  pos 3   nums 38
+boat id=4  status 1  pos 9   nums 37
+robot  id 0 goods 1 gr 0x6000024efd80  berth id 0
+robot  id 1 goods 1 gr 0x6000024e74b0  berth id 9
+robot  id 2 goods 1 gr 0x6000024f1530  berth id 8
+robot  id 3 goods 1 gr 0x6000024e4ed0  berth id 3
+robot  id 4 goods 0 gr 0x6000024ec540  berth id 6
+robot  id 5 goods 1 gr 0x6000024f0990  berth id 9
+robot  id 6 goods 0 gr 0x6000024eb960  berth id 6
+robot  id 7 goods 0 gr 0x6000024e9ce0  berth id 9
+robot  id 8 goods 0 gr 0x6000024f1680  berth id 6
+robot  id 9 goods 0 gr 0x6000024c7420  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 19
+boat id=1  status 0  pos -1   nums 0
+boat id=2  status 1  pos 0   nums 13
+boat id=3  status 1  pos 3   nums 39
+boat id=4  status 1  pos 9   nums 40
+robot  id 0 goods 0 gr 0x6000024e6970  berth id 3
+robot  id 1 goods 0 gr 0x6000024e6730  berth id 9
+robot  id 2 goods 0 gr 0x6000024f4c90  berth id 8
+robot  id 3 goods 0 gr 0x6000024c4390  berth id 3
+robot  id 4 goods 1 gr 0x6000024ec540  berth id 9
+robot  id 5 goods 0 gr 0x6000024c68b0  berth id 9
+robot  id 6 goods 1 gr 0x6000024eb960  berth id 9
+robot  id 7 goods 0 gr 0x6000024f7d20  berth id 9
+robot  id 8 goods 1 gr 0x6000024f1680  berth id 9
+robot  id 9 goods 0 gr 0x6000024e5bf0  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 19
+boat id=1  status 0  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 13
+boat id=3  status 1  pos 3   nums 39
+boat id=4  status 1  pos 9   nums 43
+robot  id 0 goods 1 gr 0x6000024e6970  berth id 3
+robot  id 1 goods 1 gr 0x6000024e6730  berth id 9
+robot  id 2 goods 1 gr 0x6000024f4c90  berth id 8
+robot  id 3 goods 1 gr 0x6000024c4390  berth id 3
+robot  id 4 goods 1 gr 0x6000024ec540  berth id 9
+robot  id 5 goods 0 gr 0x6000024c6430  berth id 9
+robot  id 6 goods 0 gr 0x6000024e5e60  berth id 9
+robot  id 7 goods 1 gr 0x6000024f7d20  berth id 9
+robot  id 8 goods 0 gr 0x6000024e9c20  berth id 9
+robot  id 9 goods 1 gr 0x6000024e5bf0  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 20
+boat id=1  status 0  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 14
+boat id=3  status 1  pos 3   nums 40
+boat id=4  status 1  pos 9   nums 46
+robot  id 0 goods 1 gr 0x6000024e6970  berth id 3
+robot  id 1 goods 0 gr 0x6000024c55c0  berth id 8
+robot  id 2 goods 0 gr 0x6000024e4450  berth id 8
+robot  id 3 goods 0 gr 0x6000024ea430  berth id 3
+robot  id 4 goods 0 gr 0x6000024f6340  berth id 9
+robot  id 5 goods 1 gr 0x6000024c6430  berth id 9
+robot  id 6 goods 0 gr 0x6000024e5e60  berth id 9
+robot  id 7 goods 0 gr 0x6000024e9e90  berth id 6
+robot  id 8 goods 0 gr 0x6000024e9c20  berth id 9
+robot  id 9 goods 1 gr 0x6000024c51d0  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 22
+boat id=1  status 0  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 15
+boat id=3  status 1  pos 3   nums 41
+boat id=4  status 1  pos 9   nums 47
+robot  id 0 goods 1 gr 0x6000024f3030  berth id 3
+robot  id 1 goods 0 gr 0x6000024e7510  berth id 9
+robot  id 2 goods 0 gr 0x6000024c71e0  berth id 8
+robot  id 3 goods 1 gr 0x6000024ea430  berth id 3
+robot  id 4 goods 1 gr 0x6000024f6340  berth id 9
+robot  id 5 goods 1 gr 0x6000024e9740  berth id 9
+robot  id 6 goods 1 gr 0x6000024e5e60  berth id 9
+robot  id 7 goods 1 gr 0x6000024e9e90  berth id 9
+robot  id 8 goods 1 gr 0x6000024e9c20  berth id 9
+robot  id 9 goods 1 gr 0x6000024c7450  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 23
+boat id=1  status 0  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 17
+boat id=3  status 1  pos 3   nums 43
+boat id=4  status 1  pos 9   nums 52
+robot  id 0 goods 0 gr 0x6000024e4300  berth id 5
+robot  id 1 goods 1 gr 0x6000024e7510  berth id 9
+robot  id 2 goods 0 gr 0x6000024e5ec0  berth id 8
+robot  id 3 goods 0 gr 0x6000024e6100  berth id 5
+robot  id 4 goods 0 gr 0x6000024e5980  berth id 6
+robot  id 5 goods 1 gr 0x6000024fe520  berth id 9
+robot  id 6 goods 0 gr 0x6000024eb270  berth id 9
+robot  id 7 goods 1 gr 0x6000024e9e90  berth id 9
+robot  id 8 goods 0 gr 0x6000024fedf0  berth id 5
+robot  id 9 goods 0 gr 0x6000024f0870  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 23
+boat id=1  status 0  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 19
+boat id=3  status 1  pos 3   nums 44
+boat id=4  status 1  pos 9   nums 57
+robot  id 0 goods 1 gr 0x6000024e4300  berth id 3
+robot  id 1 goods 0 gr 0x6000024e5770  berth id 9
+robot  id 2 goods 1 gr 0x6000024e5ec0  berth id 8
+robot  id 3 goods 0 gr 0x6000024fdce0  berth id 5
+robot  id 4 goods 0 gr 0x6000024e5980  berth id 6
+robot  id 5 goods 0 gr 0x6000024f4720  berth id 9
+robot  id 6 goods 0 gr 0x6000024e8cf0  berth id 8
+robot  id 7 goods 1 gr 0x6000024e6610  berth id 9
+robot  id 8 goods 1 gr 0x6000024fedf0  berth id 3
+robot  id 9 goods 0 gr 0x6000024c7420  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 24
+boat id=1  status 0  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 20
+boat id=3  status 1  pos 3   nums 47
+boat id=4  status 1  pos 9   nums 58
+robot  id 0 goods 0 gr 0x6000024ebc30  berth id 3
+robot  id 1 goods 0 gr 0x6000024e5770  berth id 9
+robot  id 2 goods 0 gr 0x6000024f7780  berth id 9
+robot  id 3 goods 1 gr 0x6000024fdce0  berth id 3
+robot  id 4 goods 1 gr 0x6000024e5980  berth id 9
+robot  id 5 goods 1 gr 0x6000024f4720  berth id 9
+robot  id 6 goods 0 gr 0x6000024e8cf0  berth id 8
+robot  id 7 goods 0 gr 0x6000024e75d0  berth id 9
+robot  id 8 goods 0 gr 0x6000024ffe40  berth id 5
+robot  id 9 goods 0 gr 0x6000024f5230  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 25
+boat id=1  status 0  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 21
+boat id=3  status 1  pos 3   nums 49
+boat id=4  status 1  pos 9   nums 61
+robot  id 0 goods 0 gr 0x6000024e5fe0  berth id 0
+robot  id 1 goods 1 gr 0x6000024e5770  berth id 9
+robot  id 2 goods 0 gr 0x6000024c4720  berth id 8
+robot  id 3 goods 0 gr 0x6000024e7c90  berth id 0
+robot  id 4 goods 0 gr 0x6000024c42d0  berth id 9
+robot  id 5 goods 0 gr 0x6000024f2fa0  berth id 8
+robot  id 6 goods 0 gr 0x6000024ff2d0  berth id 8
+robot  id 7 goods 1 gr 0x6000024e75d0  berth id 9
+robot  id 8 goods 1 gr 0x6000024ffe40  berth id 3
+robot  id 9 goods 0 gr 0x6000024e8d80  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 26
+boat id=1  status 0  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 22
+boat id=3  status 1  pos 3   nums 50
+boat id=4  status 1  pos 9   nums 63
+robot  id 0 goods 1 gr 0x6000024e5fe0  berth id 0
+robot  id 1 goods 1 gr 0x6000024e9dd0  berth id 9
+robot  id 2 goods 0 gr 0x6000024f7180  berth id 8
+robot  id 3 goods 0 gr 0x6000024e7c90  berth id 0
+robot  id 4 goods 0 gr 0x6000024c42d0  berth id 9
+robot  id 5 goods 0 gr 0x6000024f2fa0  berth id 8
+robot  id 6 goods 1 gr 0x6000024ff2d0  berth id 8
+robot  id 7 goods 0 gr 0x6000024f3600  berth id 9
+robot  id 8 goods 0 gr 0x6000024eb420  berth id 3
+robot  id 9 goods 0 gr 0x6000024c5ad0  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 27
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 23
+boat id=3  status 1  pos 3   nums 50
+boat id=4  status 1  pos 9   nums 64
+robot  id 0 goods 0 gr 0x6000024f0bd0  berth id 0
+robot  id 1 goods 0 gr 0x6000024e45d0  berth id 9
+robot  id 2 goods 1 gr 0x6000024f7180  berth id 8
+robot  id 3 goods 1 gr 0x6000024e7c90  berth id 0
+robot  id 4 goods 1 gr 0x6000024c42d0  berth id 9
+robot  id 5 goods 1 gr 0x6000024f2fa0  berth id 8
+robot  id 6 goods 0 gr 0x6000024ffe70  berth id 8
+robot  id 7 goods 1 gr 0x6000024f3600  berth id 9
+robot  id 8 goods 1 gr 0x6000024eb420  berth id 3
+robot  id 9 goods 1 gr 0x6000024c5ad0  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 29
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 26
+boat id=3  status 1  pos 3   nums 51
+boat id=4  status 1  pos 9   nums 66
+robot  id 0 goods 0 gr 0x6000024e7270  berth id 0
+robot  id 1 goods 1 gr 0x6000024e45d0  berth id 9
+robot  id 2 goods 0 gr 0x6000024c7d50  berth id 8
+robot  id 3 goods 0 gr 0x6000024c6850  berth id 0
+robot  id 4 goods 0 gr 0x6000024ea700  berth id 6
+robot  id 5 goods 0 gr 0x6000024f1050  berth id 8
+robot  id 6 goods 1 gr 0x6000024ffe70  berth id 8
+robot  id 7 goods 1 gr 0x6000024e9290  berth id 9
+robot  id 8 goods 1 gr 0x6000024f2dc0  berth id 3
+robot  id 9 goods 0 gr 0x6000024fde90  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 30
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 26
+boat id=3  status 1  pos 3   nums 52
+boat id=4  status 1  pos 9   nums 69
+robot  id 0 goods 1 gr 0x6000024e7270  berth id 0
+robot  id 1 goods 1 gr 0x6000024f3690  berth id 9
+robot  id 2 goods 0 gr 0x6000024c7d50  berth id 8
+robot  id 3 goods 1 gr 0x6000024c6850  berth id 0
+robot  id 4 goods 0 gr 0x6000024f3630  berth id 9
+robot  id 5 goods 1 gr 0x6000024f1050  berth id 8
+robot  id 6 goods 0 gr 0x6000024e5620  berth id 8
+robot  id 7 goods 0 gr 0x6000024e4420  berth id 6
+robot  id 8 goods 1 gr 0x6000024f26d0  berth id 3
+robot  id 9 goods 1 gr 0x6000024fde90  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 31
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 29
+boat id=3  status 1  pos 3   nums 53
+boat id=4  status 1  pos 9   nums 70
+robot  id 0 goods 0 gr 0x6000024ee1c0  berth id 3
+robot  id 1 goods 0 gr 0x6000024f71e0  berth id 6
+robot  id 2 goods 1 gr 0x6000024c7d50  berth id 8
+robot  id 3 goods 1 gr 0x6000024edb60  berth id 0
+robot  id 4 goods 1 gr 0x6000024f3630  berth id 9
+robot  id 5 goods 0 gr 0x6000024ec720  berth id 8
+robot  id 6 goods 1 gr 0x6000024e5620  berth id 8
+robot  id 7 goods 1 gr 0x6000024e4420  berth id 9
+robot  id 8 goods 0 gr 0x6000024e9d70  berth id 4
+robot  id 9 goods 0 gr 0x6000024f7540  berth id 3
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 34
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 30
+boat id=3  status 1  pos 3   nums 55
+boat id=4  status 1  pos 9   nums 73
+robot  id 0 goods 0 gr 0x6000024ee1c0  berth id 3
+robot  id 1 goods 1 gr 0x6000024f71e0  berth id 9
+robot  id 2 goods 0 gr 0x6000024e65e0  berth id 8
+robot  id 3 goods 0 gr 0x6000024f6e80  berth id 0
+robot  id 4 goods 0 gr 0x6000024c7840  berth id 6
+robot  id 5 goods 0 gr 0x6000024ed620  berth id 9
+robot  id 6 goods 0 gr 0x6000024c7030  berth id 8
+robot  id 7 goods 0 gr 0x6000024c7810  berth id 6
+robot  id 8 goods 0 gr 0x6000024c7570  berth id 5
+robot  id 9 goods 0 gr 0x6000024e9a40  berth id 3
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 34
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 31
+boat id=3  status 1  pos 3   nums 56
+boat id=4  status 1  pos 9   nums 74
+robot  id 0 goods 0 gr 0x6000024fdef0  berth id 3
+robot  id 1 goods 0 gr 0x6000024c6e80  berth id 8
+robot  id 2 goods 1 gr 0x6000024e65e0  berth id 8
+robot  id 3 goods 0 gr 0x6000024ec000  berth id 0
+robot  id 4 goods 0 gr 0x6000024c7840  berth id 6
+robot  id 5 goods 1 gr 0x6000024ed620  berth id 9
+robot  id 6 goods 1 gr 0x6000024c7030  berth id 8
+robot  id 7 goods 1 gr 0x6000024c7810  berth id 9
+robot  id 8 goods 1 gr 0x6000024c7570  berth id 3
+robot  id 9 goods 1 gr 0x6000024e9a40  berth id 3
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 36
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 31
+boat id=3  status 1  pos 3   nums 58
+boat id=4  status 1  pos 9   nums 76
+robot  id 0 goods 1 gr 0x6000024fdef0  berth id 3
+robot  id 1 goods 0 gr 0x6000024f6430  berth id 8
+robot  id 2 goods 0 gr 0x6000024ffb10  berth id 9
+robot  id 3 goods 1 gr 0x6000024ec000  berth id 0
+robot  id 4 goods 1 gr 0x6000024c7840  berth id 9
+robot  id 5 goods 0 gr 0x6000024f6370  berth id 9
+robot  id 6 goods 1 gr 0x6000024c7030  berth id 8
+robot  id 7 goods 0 gr 0x6000024f5fb0  berth id 9
+robot  id 8 goods 0 gr 0x6000024c6b80  berth id 3
+robot  id 9 goods 0 gr 0x6000024f7f00  berth id 5
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 37
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 31
+boat id=3  status 1  pos 3   nums 59
+boat id=4  status 1  pos 9   nums 79
+robot  id 0 goods 0 gr 0x6000024fe0a0  berth id 6
+robot  id 1 goods 1 gr 0x6000024f6430  berth id 8
+robot  id 2 goods 1 gr 0x6000024ffb10  berth id 9
+robot  id 3 goods 1 gr 0x6000024ec000  berth id 0
+robot  id 4 goods 1 gr 0x6000024e9f50  berth id 9
+robot  id 5 goods 0 gr 0x6000024f18c0  berth id 9
+robot  id 6 goods 0 gr 0x6000024fff30  berth id 9
+robot  id 7 goods 1 gr 0x6000024f5fb0  berth id 9
+robot  id 8 goods 1 gr 0x6000024c6b80  berth id 3
+robot  id 9 goods 1 gr 0x6000024f7f00  berth id 3
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 38
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 33
+boat id=3  status 1  pos 3   nums 61
+boat id=4  status 1  pos 9   nums 82
+robot  id 0 goods 1 gr 0x6000024fe0a0  berth id 3
+robot  id 1 goods 1 gr 0x6000024f1140  berth id 8
+robot  id 2 goods 0 gr 0x6000024ea850  berth id 6
+robot  id 3 goods 0 gr 0x6000024fc420  berth id 0
+robot  id 4 goods 0 gr 0x6000024ead90  berth id 9
+robot  id 5 goods 1 gr 0x6000024f18c0  berth id 9
+robot  id 6 goods 0 gr 0x6000024fff30  berth id 9
+robot  id 7 goods 0 gr 0x6000024fc1e0  berth id 9
+robot  id 8 goods 1 gr 0x6000024e9830  berth id 3
+robot  id 9 goods 0 gr 0x6000024ebd80  berth id 5
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status 14 priority 4  nums 0
+boat id=0  status 1  pos 8   nums 39
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 33
+boat id=3  status 1  pos 3   nums 64
+boat id=4  status 1  pos 9   nums 83
+robot  id 0 goods 0 gr 0x6000024eabe0  berth id 3
+robot  id 1 goods 0 gr 0x6000024fe6a0  berth id 8
+robot  id 2 goods 1 gr 0x6000024ea850  berth id 9
+robot  id 3 goods 1 gr 0x6000024fc420  berth id 0
+robot  id 4 goods 1 gr 0x6000024ead90  berth id 9
+robot  id 5 goods 0 gr 0x6000024fe760  berth id 9
+robot  id 6 goods 1 gr 0x6000024fff30  berth id 9
+robot  id 7 goods 1 gr 0x6000024fc1e0  berth id 9
+robot  id 8 goods 0 gr 0x6000024f6250  berth id 6
+robot  id 9 goods 0 gr 0x6000024f21c0  berth id 5
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 2
+boat id=0  status 1  pos 8   nums 39
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 34
+boat id=3  status 1  pos 3   nums 64
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 1 gr 0x6000024eabe0  berth id 3
+robot  id 1 goods 1 gr 0x6000024fe6a0  berth id 8
+robot  id 2 goods 0 gr 0x6000024ea010  berth id 8
+robot  id 3 goods 1 gr 0x6000024e81b0  berth id 0
+robot  id 4 goods 1 gr 0x6000024f0ed0  berth id 8
+robot  id 5 goods 1 gr 0x6000024fe760  berth id 8
+robot  id 6 goods 0 gr 0x6000024edcb0  berth id 6
+robot  id 7 goods 0 gr 0x6000024f33c0  berth id 9
+robot  id 8 goods 1 gr 0x6000024f6250  berth id 3
+robot  id 9 goods 0 gr 0x6000024f21c0  berth id 5
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 2
+boat id=0  status 1  pos 8   nums 42
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 36
+boat id=3  status 1  pos 3   nums 67
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 0 gr 0x6000024ead90  berth id 5
+robot  id 1 goods 0 gr 0x6000024eaca0  berth id 8
+robot  id 2 goods 0 gr 0x6000024c5a10  berth id 9
+robot  id 3 goods 0 gr 0x6000024f4300  berth id 0
+robot  id 4 goods 0 gr 0x6000024e8780  berth id 8
+robot  id 5 goods 1 gr 0x6000024fe760  berth id 8
+robot  id 6 goods 1 gr 0x6000024edcb0  berth id 3
+robot  id 7 goods 1 gr 0x6000024f33c0  berth id 8
+robot  id 8 goods 0 gr 0x6000024c7c30  berth id 3
+robot  id 9 goods 1 gr 0x6000024f21c0  berth id 3
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 2
+boat id=0  status 1  pos 8   nums 44
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 36
+boat id=3  status 1  pos 3   nums 70
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 1 gr 0x6000024ead90  berth id 3
+robot  id 1 goods 1 gr 0x6000024eaca0  berth id 8
+robot  id 2 goods 1 gr 0x6000024c5a10  berth id 8
+robot  id 3 goods 1 gr 0x6000024f4300  berth id 0
+robot  id 4 goods 1 gr 0x6000024e8780  berth id 8
+robot  id 5 goods 0 gr 0x6000024f14d0  berth id 8
+robot  id 6 goods 0 gr 0x6000024eb240  berth id 0
+robot  id 7 goods 1 gr 0x6000024c4ed0  berth id 8
+robot  id 8 goods 0 gr 0x6000024c5a70  berth id 5
+robot  id 9 goods 1 gr 0x6000024ff8a0  berth id 3
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 2
+boat id=0  status 1  pos 8   nums 47
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 37
+boat id=3  status 1  pos 3   nums 72
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 0 gr 0x6000024e9170  berth id 3
+robot  id 1 goods 0 gr 0x6000024e8ed0  berth id 9
+robot  id 2 goods 1 gr 0x6000024c5a10  berth id 8
+robot  id 3 goods 0 gr 0x6000024e8750  berth id 0
+robot  id 4 goods 0 gr 0x6000024eb2a0  berth id 8
+robot  id 5 goods 0 gr 0x6000024f14d0  berth id 8
+robot  id 6 goods 1 gr 0x6000024eb240  berth id 0
+robot  id 7 goods 1 gr 0x6000024eb9f0  berth id 8
+robot  id 8 goods 1 gr 0x6000024c5a70  berth id 3
+robot  id 9 goods 0 gr 0x6000024fe400  berth id 3
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 2
+boat id=0  status 1  pos 8   nums 49
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 38
+boat id=3  status 1  pos 3   nums 73
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 1 gr 0x6000024e9170  berth id 3
+robot  id 1 goods 0 gr 0x6000024e8ed0  berth id 9
+robot  id 2 goods 1 gr 0x6000024e97d0  berth id 8
+robot  id 3 goods 1 gr 0x6000024e8750  berth id 0
+robot  id 4 goods 1 gr 0x6000024eb2a0  berth id 8
+robot  id 5 goods 1 gr 0x6000024f14d0  berth id 8
+robot  id 6 goods 0 gr 0x6000024e78d0  berth id 0
+robot  id 7 goods 0 gr 0x6000024e8540  berth id 9
+robot  id 8 goods 0 gr 0x6000024ecd50  berth id 5
+robot  id 9 goods 0 gr 0x6000024fe400  berth id 3
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 2
+boat id=0  status 1  pos 8   nums 53
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 39
+boat id=3  status 1  pos 3   nums 73
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 1 gr 0x6000024e9170  berth id 3
+robot  id 1 goods 1 gr 0x6000024e8ed0  berth id 8
+robot  id 2 goods 0 gr 0x6000024edbf0  berth id 8
+robot  id 3 goods 0 gr 0x6000024fd320  berth id 0
+robot  id 4 goods 0 gr 0x6000024eed00  berth id 8
+robot  id 5 goods 0 gr 0x6000024e6e50  berth id 9
+robot  id 6 goods 1 gr 0x6000024e78d0  berth id 0
+robot  id 7 goods 0 gr 0x6000024f42d0  berth id 8
+robot  id 8 goods 1 gr 0x6000024ecd50  berth id 3
+robot  id 9 goods 1 gr 0x6000024fe400  berth id 3
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 2
+boat id=0  status 1  pos 8   nums 55
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 41
+boat id=3  status 1  pos 3   nums 76
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 1 gr 0x6000024e9d40  berth id 3
+robot  id 1 goods 0 gr 0x6000024e5a70  berth id 8
+robot  id 2 goods 1 gr 0x6000024edbf0  berth id 8
+robot  id 3 goods 0 gr 0x6000024f0c90  berth id 0
+robot  id 4 goods 1 gr 0x6000024eed00  berth id 8
+robot  id 5 goods 0 gr 0x6000024ec240  berth id 9
+robot  id 6 goods 0 gr 0x6000024e8bd0  berth id 0
+robot  id 7 goods 1 gr 0x6000024f42d0  berth id 8
+robot  id 8 goods 0 gr 0x6000024ecd20  berth id 6
+robot  id 9 goods 0 gr 0x6000024ec120  berth id 5
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 2
+boat id=0  status 1  pos 8   nums 58
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 43
+boat id=3  status 1  pos 3   nums 78
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 0 gr 0x6000024fc3f0  berth id 3
+robot  id 1 goods 0 gr 0x6000024e5a70  berth id 8
+robot  id 2 goods 0 gr 0x6000024e6940  berth id 9
+robot  id 3 goods 0 gr 0x6000024f1ad0  berth id 0
+robot  id 4 goods 0 gr 0x6000024fcba0  berth id 9
+robot  id 5 goods 1 gr 0x6000024ec240  berth id 8
+robot  id 6 goods 1 gr 0x6000024e8bd0  berth id 0
+robot  id 7 goods 0 gr 0x6000024f3180  berth id 8
+robot  id 8 goods 1 gr 0x6000024ed4a0  berth id 3
+robot  id 9 goods 1 gr 0x6000024ec120  berth id 3
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 2
+boat id=0  status 1  pos 8   nums 59
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 45
+boat id=3  status 1  pos 3   nums 80
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 1 gr 0x6000024fc3f0  berth id 3
+robot  id 1 goods 1 gr 0x6000024e5a70  berth id 8
+robot  id 2 goods 1 gr 0x6000024e6940  berth id 8
+robot  id 3 goods 0 gr 0x6000024f10b0  berth id 3
+robot  id 4 goods 0 gr 0x6000024fcba0  berth id 9
+robot  id 5 goods 0 gr 0x6000024ed8c0  berth id 9
+robot  id 6 goods 0 gr 0x6000024f0d50  berth id 4
+robot  id 7 goods 1 gr 0x6000024f3180  berth id 8
+robot  id 8 goods 0 gr 0x6000024f7cf0  berth id 0
+robot  id 9 goods 0 gr 0x6000024f2b80  berth id 5
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 13 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 2
+boat id=0  status 1  pos 8   nums 62
+boat id=1  status 2  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 46
+boat id=3  status 1  pos 3   nums 82
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 0 gr 0x6000024e60d0  berth id 3
+robot  id 1 goods 0 gr 0x6000024ebba0  berth id 8
+robot  id 2 goods 0 gr 0x6000024ed500  berth id 8
+robot  id 3 goods 1 gr 0x6000024f10b0  berth id 3
+robot  id 4 goods 1 gr 0x6000024fcba0  berth id 8
+robot  id 5 goods 1 gr 0x6000024ed8c0  berth id 8
+robot  id 6 goods 0 gr 0x6000024ebf30  berth id 6
+robot  id 7 goods 0 gr 0x6000024e6c70  berth id 8
+robot  id 8 goods 0 gr 0x6000024fcea0  berth id 0
+robot  id 9 goods 1 gr 0x6000024f2b80  berth id 3
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 2
+boat id=0  status 1  pos 8   nums 64
+boat id=1  status 1  pos 3   nums 0
+boat id=2  status 1  pos 0   nums 46
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 0 gr 0x6000024e7e40  berth id 3
+robot  id 1 goods 1 gr 0x6000024ebba0  berth id 8
+robot  id 2 goods 1 gr 0x6000024ed500  berth id 8
+robot  id 3 goods 0 gr 0x6000024ee7c0  berth id 6
+robot  id 4 goods 0 gr 0x6000024ea3a0  berth id 8
+robot  id 5 goods 0 gr 0x6000024e8de0  berth id 8
+robot  id 6 goods 1 gr 0x6000024ebf30  berth id 3
+robot  id 7 goods 1 gr 0x6000024e6c70  berth id 8
+robot  id 8 goods 0 gr 0x6000024fcea0  berth id 0
+robot  id 9 goods 0 gr 0x6000024e6160  berth id 3
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 2
+boat id=0  status 1  pos 8   nums 67
+boat id=1  status 1  pos 3   nums 1
+boat id=2  status 1  pos 0   nums 46
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos 8   nums 0
+robot  id 0 goods 1 gr 0x6000024e7e40  berth id 3
+robot  id 1 goods 0 gr 0x6000024e8510  berth id 8
+robot  id 2 goods 1 gr 0x6000024ff900  berth id 8
+robot  id 3 goods 1 gr 0x6000024ee7c0  berth id 3
+robot  id 4 goods 1 gr 0x6000024ea3a0  berth id 8
+robot  id 5 goods 0 gr 0x6000024f20a0  berth id 9
+robot  id 6 goods 0 gr 0x6000024f7660  berth id 5
+robot  id 7 goods 1 gr 0x6000024e6c70  berth id 8
+robot  id 8 goods 1 gr 0x6000024fcea0  berth id 0
+robot  id 9 goods 1 gr 0x6000024e6160  berth id 3
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 2
+boat id=0  status 1  pos 8   nums 70
+boat id=1  status 1  pos 3   nums 3
+boat id=2  status 1  pos 0   nums 47
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos 8   nums 0
+robot  id 0 goods 1 gr 0x6000024e7e40  berth id 3
+robot  id 1 goods 1 gr 0x6000024e8510  berth id 8
+robot  id 2 goods 0 gr 0x6000024e4450  berth id 8
+robot  id 3 goods 0 gr 0x6000024e4b70  berth id 5
+robot  id 4 goods 0 gr 0x6000024fe2e0  berth id 8
+robot  id 5 goods 1 gr 0x6000024f20a0  berth id 8
+robot  id 6 goods 1 gr 0x6000024f7660  berth id 3
+robot  id 7 goods 1 gr 0x6000024fe790  berth id 8
+robot  id 8 goods 1 gr 0x6000024ea220  berth id 0
+robot  id 9 goods 0 gr 0x6000024fd110  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 2
+boat id=0  status 1  pos 8   nums 73
+boat id=1  status 1  pos 3   nums 5
+boat id=2  status 1  pos 0   nums 50
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos 8   nums 0
+robot  id 0 goods 0 gr 0x6000024e9c20  berth id 0
+robot  id 1 goods 0 gr 0x6000024eafa0  berth id 8
+robot  id 2 goods 1 gr 0x6000024e4450  berth id 8
+robot  id 3 goods 1 gr 0x6000024e4b70  berth id 3
+robot  id 4 goods 1 gr 0x6000024fe2e0  berth id 8
+robot  id 5 goods 0 gr 0x6000024ede30  berth id 9
+robot  id 6 goods 0 gr 0x6000024fce70  berth id 5
+robot  id 7 goods 0 gr 0x6000024f41e0  berth id 8
+robot  id 8 goods 1 gr 0x6000024e55c0  berth id 0
+robot  id 9 goods 0 gr 0x6000024fe6d0  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 2
+boat id=0  status 1  pos 8   nums 77
+boat id=1  status 1  pos 3   nums 7
+boat id=2  status 1  pos 0   nums 52
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos 8   nums 0
+robot  id 0 goods 0 gr 0x6000024ec810  berth id 0
+robot  id 1 goods 0 gr 0x6000024c7570  berth id 8
+robot  id 2 goods 0 gr 0x6000024c5b90  berth id 9
+robot  id 3 goods 0 gr 0x6000024c7e70  berth id 0
+robot  id 4 goods 0 gr 0x6000024e9d10  berth id 8
+robot  id 5 goods 0 gr 0x6000024e9500  berth id 8
+robot  id 6 goods 0 gr 0x6000024fdd10  berth id 3
+robot  id 7 goods 0 gr 0x6000024f41e0  berth id 8
+robot  id 8 goods 0 gr 0x6000024f22e0  berth id 0
+robot  id 9 goods 1 gr 0x6000024fe6d0  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 3  nums 2
+boat id=0  status 1  pos 8   nums 78
+boat id=1  status 1  pos 3   nums 7
+boat id=2  status 1  pos 0   nums 54
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos 8   nums 0
+robot  id 0 goods 1 gr 0x6000024ec810  berth id 0
+robot  id 1 goods 1 gr 0x6000024c7570  berth id 8
+robot  id 2 goods 1 gr 0x6000024c5b90  berth id 8
+robot  id 3 goods 0 gr 0x6000024f3a80  berth id 0
+robot  id 4 goods 1 gr 0x6000024e9d10  berth id 8
+robot  id 5 goods 0 gr 0x6000024e9500  berth id 8
+robot  id 6 goods 1 gr 0x6000024fdd10  berth id 3
+robot  id 7 goods 0 gr 0x6000024ffcf0  berth id 9
+robot  id 8 goods 1 gr 0x6000024f22e0  berth id 0
+robot  id 9 goods 1 gr 0x6000024e5020  berth id 3
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 1  pos 8   nums 81
+boat id=1  status 1  pos 3   nums 9
+boat id=2  status 1  pos 0   nums 56
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos 8   nums 0
+robot  id 0 goods 0 gr 0x6000024c6be0  berth id 3
+robot  id 1 goods 0 gr 0x6000024e7d50  berth id 9
+robot  id 2 goods 0 gr 0x6000024ee400  berth id 8
+robot  id 3 goods 1 gr 0x6000024f3a80  berth id 0
+robot  id 4 goods 0 gr 0x6000024ebc00  berth id 9
+robot  id 5 goods 1 gr 0x6000024e9500  berth id 8
+robot  id 6 goods 0 gr 0x6000024e8d50  berth id 5
+robot  id 7 goods 1 gr 0x6000024ffcf0  berth id 8
+robot  id 8 goods 0 gr 0x6000024fcba0  berth id 0
+robot  id 9 goods 1 gr 0x6000024eeb20  berth id 3
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 3  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 10 priority 4  nums 0
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 1  pos 8   nums 83
+boat id=1  status 1  pos 3   nums 10
+boat id=2  status 1  pos 0   nums 57
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos 8   nums 0
+robot  id 0 goods 1 gr 0x6000024c6be0  berth id 3
+robot  id 1 goods 0 gr 0x6000024e7d50  berth id 9
+robot  id 2 goods 1 gr 0x6000024ee400  berth id 8
+robot  id 3 goods 1 gr 0x6000024e4510  berth id 3
+robot  id 4 goods 1 gr 0x6000024ebc00  berth id 8
+robot  id 5 goods 0 gr 0x6000024c5b60  berth id 9
+robot  id 6 goods 1 gr 0x6000024e8d50  berth id 3
+robot  id 7 goods 0 gr 0x6000024e6e50  berth id 8
+robot  id 8 goods 1 gr 0x6000024fcba0  berth id 0
+robot  id 9 goods 1 gr 0x6000024e4a20  berth id 3
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status -1 priority 3  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 4 priority 4  nums 1
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 0  pos -1   nums 0
+boat id=1  status 1  pos 3   nums 14
+boat id=2  status 1  pos 0   nums 58
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos 8   nums 0
+robot  id 0 goods 0 gr 0x6000024e8390  berth id 3
+robot  id 1 goods 1 gr 0x6000024e7d50  berth id 8
+robot  id 2 goods 0 gr 0x6000024fc120  berth id 8
+robot  id 3 goods 0 gr 0x6000024e60a0  berth id 3
+robot  id 4 goods 0 gr 0x6000024ff330  berth id 6
+robot  id 5 goods 1 gr 0x6000024c5b60  berth id 8
+robot  id 6 goods 1 gr 0x6000024e7120  berth id 3
+robot  id 7 goods 0 gr 0x6000024ff5a0  berth id 8
+robot  id 8 goods 0 gr 0x6000024c7a20  berth id 0
+robot  id 9 goods 0 gr 0x6000024e5500  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 3  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status 3 priority 4  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 4 priority 4  nums 3
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 0  pos -1   nums 0
+boat id=1  status 1  pos 3   nums 15
+boat id=2  status 1  pos 0   nums 59
+boat id=3  status 0  pos 6   nums 0
+boat id=4  status 0  pos 8   nums 0
+robot  id 0 goods 1 gr 0x6000024e8390  berth id 3
+robot  id 1 goods 0 gr 0x6000024f7060  berth id 8
+robot  id 2 goods 0 gr 0x6000024fc120  berth id 8
+robot  id 3 goods 1 gr 0x6000024e60a0  berth id 3
+robot  id 4 goods 0 gr 0x6000024ff330  berth id 6
+robot  id 5 goods 1 gr 0x6000024e51d0  berth id 8
+robot  id 6 goods 0 gr 0x6000024e76c0  berth id 4
+robot  id 7 goods 1 gr 0x6000024ff5a0  berth id 8
+robot  id 8 goods 0 gr 0x6000024e7de0  berth id 3
+robot  id 9 goods 1 gr 0x6000024e5500  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status 3 priority 4  nums 1
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 14 priority 4  nums 0
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 0  pos -1   nums 0
+boat id=1  status 1  pos 3   nums 18
+boat id=2  status 1  pos 0   nums 60
+boat id=3  status 0  pos 6   nums 0
+boat id=4  status 1  pos 8   nums 5
+robot  id 0 goods 0 gr 0x6000024fec40  berth id 3
+robot  id 1 goods 1 gr 0x6000024f7060  berth id 8
+robot  id 2 goods 1 gr 0x6000024fc120  berth id 8
+robot  id 3 goods 1 gr 0x6000024ed350  berth id 3
+robot  id 4 goods 1 gr 0x6000024ff330  berth id 6
+robot  id 5 goods 1 gr 0x6000024ebc30  berth id 8
+robot  id 6 goods 1 gr 0x6000024e76c0  berth id 6
+robot  id 7 goods 0 gr 0x6000024fd320  berth id 8
+robot  id 8 goods 0 gr 0x6000024e6100  berth id 3
+robot  id 9 goods 0 gr 0x6000024ef3c0  berth id 3
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status 3 priority 4  nums 5
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 14 priority 4  nums 0
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 0  pos -1   nums 0
+boat id=1  status 1  pos 3   nums 21
+boat id=2  status 1  pos 0   nums 60
+boat id=3  status 0  pos 6   nums 0
+boat id=4  status 1  pos 8   nums 8
+robot  id 0 goods 1 gr 0x6000024fec40  berth id 3
+robot  id 1 goods 0 gr 0x6000024eca50  berth id 8
+robot  id 2 goods 0 gr 0x6000024fec10  berth id 8
+robot  id 3 goods 0 gr 0x6000024efc60  berth id 6
+robot  id 4 goods 1 gr 0x6000024e5d40  berth id 6
+robot  id 5 goods 0 gr 0x6000024ff3c0  berth id 8
+robot  id 6 goods 0 gr 0x6000024eca80  berth id 6
+robot  id 7 goods 1 gr 0x6000024fd320  berth id 8
+robot  id 8 goods 0 gr 0x6000024fd800  berth id 0
+robot  id 9 goods 0 gr 0x6000024f5b60  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status 3 priority 4  nums 8
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 14 priority 4  nums 0
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 0  pos -1   nums 0
+boat id=1  status 1  pos 3   nums 22
+boat id=2  status 1  pos 0   nums 61
+boat id=3  status 0  pos 6   nums 0
+boat id=4  status 1  pos 8   nums 11
+robot  id 0 goods 0 gr 0x6000024fdd10  berth id 0
+robot  id 1 goods 0 gr 0x6000024f7a20  berth id 8
+robot  id 2 goods 1 gr 0x6000024fec10  berth id 8
+robot  id 3 goods 0 gr 0x0  berth id 6
+robot  id 4 goods 0 gr 0x6000024f6490  berth id 6
+robot  id 5 goods 1 gr 0x6000024ff3c0  berth id 8
+robot  id 6 goods 0 gr 0x0  berth id 6
+robot  id 7 goods 0 gr 0x6000024edc50  berth id 8
+robot  id 8 goods 0 gr 0x6000024fd800  berth id 0
+robot  id 9 goods 0 gr 0x6000024e42a0  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status 3 priority 4  nums 8
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 14 priority 4  nums 0
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 0  pos -1   nums 0
+boat id=1  status 1  pos 3   nums 22
+boat id=2  status 1  pos 0   nums 63
+boat id=3  status 0  pos 6   nums 0
+boat id=4  status 1  pos 8   nums 13
+robot  id 0 goods 1 gr 0x6000024fdd10  berth id 0
+robot  id 1 goods 1 gr 0x6000024f7a20  berth id 8
+robot  id 2 goods 0 gr 0x6000024e9d40  berth id 8
+robot  id 3 goods 0 gr 0x6000024ed590  berth id 6
+robot  id 4 goods 1 gr 0x6000024f6490  berth id 6
+robot  id 5 goods 1 gr 0x6000024f5470  berth id 8
+robot  id 6 goods 0 gr 0x6000024ed2f0  berth id 6
+robot  id 7 goods 1 gr 0x6000024edc50  berth id 8
+robot  id 8 goods 1 gr 0x6000024ff750  berth id 0
+robot  id 9 goods 1 gr 0x6000024c4990  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status 3 priority 4  nums 9
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 14 priority 4  nums 0
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 0  pos -1   nums 0
+boat id=1  status 1  pos 3   nums 22
+boat id=2  status 1  pos 0   nums 65
+boat id=3  status 0  pos 6   nums 0
+boat id=4  status 1  pos 8   nums 16
+robot  id 0 goods 0 gr 0x6000024ff300  berth id 0
+robot  id 1 goods 0 gr 0x6000024ffcc0  berth id 8
+robot  id 2 goods 1 gr 0x6000024e9d40  berth id 8
+robot  id 3 goods 1 gr 0x6000024ed590  berth id 6
+robot  id 4 goods 0 gr 0x6000024f43f0  berth id 6
+robot  id 5 goods 0 gr 0x6000024ef3f0  berth id 8
+robot  id 6 goods 1 gr 0x6000024ed2f0  berth id 6
+robot  id 7 goods 1 gr 0x6000024ef8d0  berth id 8
+robot  id 8 goods 0 gr 0x6000024e8c60  berth id 0
+robot  id 9 goods 1 gr 0x6000024c4990  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status 3 priority 4  nums 11
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 14 priority 4  nums 0
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 0  pos -1   nums 0
+boat id=1  status 1  pos 3   nums 23
+boat id=2  status 1  pos 0   nums 67
+boat id=3  status 0  pos 6   nums 0
+boat id=4  status 1  pos 8   nums 18
+robot  id 0 goods 1 gr 0x6000024ff300  berth id 0
+robot  id 1 goods 1 gr 0x6000024ffcc0  berth id 8
+robot  id 2 goods 0 gr 0x6000024e7090  berth id 6
+robot  id 3 goods 0 gr 0x6000024fd8f0  berth id 6
+robot  id 4 goods 1 gr 0x6000024f43f0  berth id 6
+robot  id 5 goods 1 gr 0x6000024ef3f0  berth id 8
+robot  id 6 goods 1 gr 0x6000024e4f30  berth id 6
+robot  id 7 goods 0 gr 0x6000024edaa0  berth id 8
+robot  id 8 goods 0 gr 0x6000024e5a70  berth id 0
+robot  id 9 goods 0 gr 0x6000024fd950  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status 3 priority 4  nums 14
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 14 priority 4  nums 0
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 0  pos -1   nums 0
+boat id=1  status 1  pos 3   nums 23
+boat id=2  status 1  pos 0   nums 69
+boat id=3  status 0  pos 6   nums 0
+boat id=4  status 1  pos 8   nums 21
+robot  id 0 goods 1 gr 0x6000024efab0  berth id 0
+robot  id 1 goods 1 gr 0x6000024f5c80  berth id 8
+robot  id 2 goods 1 gr 0x6000024e7090  berth id 6
+robot  id 3 goods 1 gr 0x6000024fd8f0  berth id 6
+robot  id 4 goods 0 gr 0x6000024e76c0  berth id 6
+robot  id 5 goods 0 gr 0x6000024e7cf0  berth id 8
+robot  id 6 goods 1 gr 0x6000024ef240  berth id 6
+robot  id 7 goods 1 gr 0x6000024edaa0  berth id 8
+robot  id 8 goods 0 gr 0x6000024f5dd0  berth id 0
+robot  id 9 goods 1 gr 0x6000024fd950  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status 3 priority 4  nums 17
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 14 priority 4  nums 0
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 0  pos 0   nums 0
+boat id=1  status 1  pos 3   nums 23
+boat id=2  status 1  pos 0   nums 71
+boat id=3  status 0  pos 6   nums 0
+boat id=4  status 1  pos 8   nums 23
+robot  id 0 goods 0 gr 0x6000024f41e0  berth id 3
+robot  id 1 goods 0 gr 0x6000024ec000  berth id 6
+robot  id 2 goods 0 gr 0x6000024fd3b0  berth id 6
+robot  id 3 goods 0 gr 0x6000024e45a0  berth id 6
+robot  id 4 goods 1 gr 0x6000024e76c0  berth id 6
+robot  id 5 goods 1 gr 0x6000024e7cf0  berth id 8
+robot  id 6 goods 0 gr 0x6000024ff4e0  berth id 6
+robot  id 7 goods 0 gr 0x6000024fe580  berth id 8
+robot  id 8 goods 1 gr 0x6000024f5dd0  berth id 0
+robot  id 9 goods 0 gr 0x6000024f4090  berth id 0
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status 3 priority 4  nums 19
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 14 priority 4  nums 0
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 0  pos 0   nums 0
+boat id=1  status 1  pos 3   nums 24
+boat id=2  status 1  pos 0   nums 73
+boat id=3  status 0  pos 6   nums 0
+boat id=4  status 1  pos 8   nums 25
+robot  id 0 goods 0 gr 0x6000024ff750  berth id 3
+robot  id 1 goods 1 gr 0x6000024ec000  berth id 6
+robot  id 2 goods 1 gr 0x6000024fd3b0  berth id 6
+robot  id 3 goods 1 gr 0x6000024e45a0  berth id 6
+robot  id 4 goods 0 gr 0x6000024f41b0  berth id 3
+robot  id 5 goods 0 gr 0x6000024e8690  berth id 8
+robot  id 6 goods 0 gr 0x6000024e8b40  berth id 6
+robot  id 7 goods 0 gr 0x6000024ecea0  berth id 8
+robot  id 8 goods 0 gr 0x6000024e7e40  berth id 0
+robot  id 9 goods 0 gr 0x6000024f5830  berth id 3
+---------------------------------------
+berth  id 0 status 12 priority 4  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status 13 priority 4  nums 0
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 14 priority 4  nums 0
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 0  pos 0   nums 0
+boat id=1  status 1  pos 3   nums 25
+boat id=2  status 1  pos 0   nums 73
+boat id=3  status 1  pos 6   nums 22
+boat id=4  status 1  pos 8   nums 26
+robot  id 0 goods 1 gr 0x6000024ff750  berth id 3
+robot  id 1 goods 1 gr 0x6000024f59e0  berth id 6
+robot  id 2 goods 0 gr 0x6000024fdd70  berth id 3
+robot  id 3 goods 0 gr 0x6000024fd500  berth id 6
+robot  id 4 goods 0 gr 0x6000024f41b0  berth id 3
+robot  id 5 goods 0 gr 0x6000024fe670  berth id 8
+robot  id 6 goods 1 gr 0x6000024e8b40  berth id 6
+robot  id 7 goods 0 gr 0x6000024ecea0  berth id 8
+robot  id 8 goods 1 gr 0x6000024e7e40  berth id 0
+robot  id 9 goods 0 gr 0x6000024ff240  berth id 0
+---------------------------------------
+berth  id 0 status 0 priority 0  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status 11 priority 4  nums 0
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status -1 priority 0  nums 2
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status 14 priority 4  nums 0
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 0  pos 0   nums 0
+boat id=1  status 1  pos 3   nums 28
+boat id=2  status 0  pos -1   nums 0
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 1  pos 8   nums 26
+robot  id 0 goods 0 gr 0x6000024f7720  berth id 3
+robot  id 1 goods 1 gr 0x6000024f4060  berth id 3
+robot  id 2 goods 1 gr 0x6000024fdd70  berth id 3
+robot  id 3 goods 0 gr 0x6000024fd500  berth id 6
+robot  id 4 goods 0 gr 0x6000024e8b70  berth id 3
+robot  id 5 goods 1 gr 0x6000024fe670  berth id 8
+robot  id 6 goods 0 gr 0x6000024f7c00  berth id 3
+robot  id 7 goods 1 gr 0x6000024ecea0  berth id 8
+robot  id 8 goods 0 gr 0x6000024fff30  berth id 0
+robot  id 9 goods 0 gr 0x6000024ff240  berth id 0
+---------------------------------------
+berth  id 0 status 0 priority 0  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status -1 priority 0  nums 2
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status -1 priority 0  nums 2
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status -1 priority 0  nums 2
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 0  pos 0   nums 0
+boat id=1  status 0  pos -1   nums 0
+boat id=2  status 0  pos -1   nums 0
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 1 gr 0x6000024f7720  berth id -1
+robot  id 1 goods 0 gr 0x6000024ee730  berth id 8
+robot  id 2 goods 0 gr 0x0  berth id 3
+robot  id 3 goods 1 gr 0x6000024f5110  berth id -1
+robot  id 4 goods 1 gr 0x6000024e8b70  berth id -1
+robot  id 5 goods 0 gr 0x0  berth id 8
+robot  id 6 goods 0 gr 0x6000024f7c00  berth id 3
+robot  id 7 goods 0 gr 0x0  berth id 8
+robot  id 8 goods 1 gr 0x6000024fff30  berth id 8
+robot  id 9 goods 1 gr 0x6000024ff240  berth id 3
+---------------------------------------
+berth  id 0 status 0 priority 0  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status -1 priority 0  nums 3
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status -1 priority 0  nums 2
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status -1 priority 0  nums 2
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 0  pos 0   nums 0
+boat id=1  status 0  pos -1   nums 0
+boat id=2  status 0  pos -1   nums 0
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 1 gr 0x6000024f7720  berth id -1
+robot  id 1 goods 0 gr 0x6000024ee730  berth id 8
+robot  id 2 goods 0 gr 0x0  berth id 3
+robot  id 3 goods 1 gr 0x6000024f5110  berth id -1
+robot  id 4 goods 1 gr 0x6000024e8b70  berth id -1
+robot  id 5 goods 0 gr 0x0  berth id 8
+robot  id 6 goods 1 gr 0x6000024f7c00  berth id -1
+robot  id 7 goods 0 gr 0x0  berth id 8
+robot  id 8 goods 1 gr 0x6000024fff30  berth id 8
+robot  id 9 goods 0 gr 0x0  berth id 3
+---------------------------------------
+berth  id 0 status 0 priority 0  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status -1 priority 0  nums 3
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status -1 priority 0  nums 2
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status -1 priority 0  nums 2
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 0  pos 0   nums 0
+boat id=1  status 0  pos -1   nums 0
+boat id=2  status 0  pos -1   nums 0
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 1 gr 0x6000024f7720  berth id -1
+robot  id 1 goods 1 gr 0x6000024ee730  berth id -1
+robot  id 2 goods 0 gr 0x0  berth id 3
+robot  id 3 goods 1 gr 0x6000024f5110  berth id -1
+robot  id 4 goods 1 gr 0x6000024e8b70  berth id -1
+robot  id 5 goods 0 gr 0x0  berth id 8
+robot  id 6 goods 1 gr 0x6000024f7c00  berth id -1
+robot  id 7 goods 0 gr 0x0  berth id 8
+robot  id 8 goods 1 gr 0x6000024fff30  berth id 8
+robot  id 9 goods 0 gr 0x0  berth id 3
+---------------------------------------
+berth  id 0 status 0 priority 0  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status -1 priority 0  nums 3
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status -1 priority 0  nums 2
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status -1 priority 0  nums 3
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 0  pos 0   nums 0
+boat id=1  status 0  pos -1   nums 0
+boat id=2  status 0  pos -1   nums 0
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 1 gr 0x6000024f7720  berth id -1
+robot  id 1 goods 1 gr 0x6000024ee730  berth id -1
+robot  id 2 goods 0 gr 0x0  berth id 3
+robot  id 3 goods 1 gr 0x6000024f5110  berth id -1
+robot  id 4 goods 1 gr 0x6000024e8b70  berth id -1
+robot  id 5 goods 0 gr 0x0  berth id 8
+robot  id 6 goods 1 gr 0x6000024f7c00  berth id -1
+robot  id 7 goods 0 gr 0x0  berth id 8
+robot  id 8 goods 0 gr 0x0  berth id 8
+robot  id 9 goods 0 gr 0x0  berth id 3
+---------------------------------------
+berth  id 0 status 0 priority 0  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status -1 priority 0  nums 3
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status -1 priority 0  nums 2
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status -1 priority 0  nums 3
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 0  pos 0   nums 0
+boat id=1  status 0  pos -1   nums 0
+boat id=2  status 0  pos -1   nums 0
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 1 gr 0x6000024f7720  berth id -1
+robot  id 1 goods 1 gr 0x6000024ee730  berth id -1
+robot  id 2 goods 0 gr 0x0  berth id 3
+robot  id 3 goods 1 gr 0x6000024f5110  berth id -1
+robot  id 4 goods 1 gr 0x6000024e8b70  berth id -1
+robot  id 5 goods 0 gr 0x0  berth id 8
+robot  id 6 goods 1 gr 0x6000024f7c00  berth id -1
+robot  id 7 goods 0 gr 0x0  berth id 8
+robot  id 8 goods 0 gr 0x0  berth id 8
+robot  id 9 goods 0 gr 0x0  berth id 3
+---------------------------------------
+berth  id 0 status 10 priority 0  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status -1 priority 0  nums 3
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status -1 priority 0  nums 2
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status -1 priority 0  nums 3
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 1  pos 0   nums 0
+boat id=1  status 0  pos -1   nums 0
+boat id=2  status 0  pos -1   nums 0
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 1 gr 0x6000024f7720  berth id -1
+robot  id 1 goods 1 gr 0x6000024ee730  berth id -1
+robot  id 2 goods 0 gr 0x0  berth id 3
+robot  id 3 goods 1 gr 0x6000024f5110  berth id -1
+robot  id 4 goods 1 gr 0x6000024e8b70  berth id -1
+robot  id 5 goods 0 gr 0x0  berth id 8
+robot  id 6 goods 1 gr 0x6000024f7c00  berth id -1
+robot  id 7 goods 0 gr 0x0  berth id 8
+robot  id 8 goods 0 gr 0x0  berth id 8
+robot  id 9 goods 0 gr 0x0  berth id 3
+---------------------------------------
+berth  id 0 status 10 priority 0  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status -1 priority 0  nums 3
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status -1 priority 0  nums 2
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status -1 priority 0  nums 3
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 1  pos 0   nums 0
+boat id=1  status 0  pos -1   nums 0
+boat id=2  status 0  pos -1   nums 0
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 1 gr 0x6000024f7720  berth id -1
+robot  id 1 goods 1 gr 0x6000024ee730  berth id -1
+robot  id 2 goods 0 gr 0x0  berth id 3
+robot  id 3 goods 1 gr 0x6000024f5110  berth id -1
+robot  id 4 goods 1 gr 0x6000024e8b70  berth id -1
+robot  id 5 goods 0 gr 0x0  berth id 8
+robot  id 6 goods 1 gr 0x6000024f7c00  berth id -1
+robot  id 7 goods 0 gr 0x0  berth id 8
+robot  id 8 goods 0 gr 0x0  berth id 8
+robot  id 9 goods 0 gr 0x0  berth id 3
+---------------------------------------
+berth  id 0 status 10 priority 0  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status -1 priority 0  nums 3
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status -1 priority 0  nums 2
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status -1 priority 0  nums 3
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 1  pos 0   nums 0
+boat id=1  status 0  pos -1   nums 0
+boat id=2  status 0  pos -1   nums 0
+boat id=3  status 0  pos -1   nums 0
+boat id=4  status 0  pos -1   nums 0
+robot  id 0 goods 1 gr 0x6000024f7720  berth id -1
+robot  id 1 goods 1 gr 0x6000024ee730  berth id -1
+robot  id 2 goods 0 gr 0x0  berth id 3
+robot  id 3 goods 1 gr 0x6000024f5110  berth id -1
+robot  id 4 goods 1 gr 0x6000024e8b70  berth id -1
+robot  id 5 goods 0 gr 0x0  berth id 8
+robot  id 6 goods 1 gr 0x6000024f7c00  berth id -1
+robot  id 7 goods 0 gr 0x0  berth id 8
+robot  id 8 goods 0 gr 0x0  berth id 8
+robot  id 9 goods 0 gr 0x0  berth id 3
+---------------------------------------
+berth  id 0 status 10 priority 0  nums 0
+berth  id 1 status -1 priority 0  nums 0
+berth  id 2 status -1 priority 0  nums 0
+berth  id 3 status -1 priority 0  nums 3
+berth  id 4 status -1 priority 0  nums 0
+berth  id 5 status -1 priority 0  nums 0
+berth  id 6 status -1 priority 0  nums 2
+berth  id 7 status -1 priority 0  nums 0
+berth  id 8 status -1 priority 0  nums 3
+berth  id 9 status -1 priority 0  nums 2
+boat id=0  status 1  pos 0   nums 0
+boat id=1  status 1  pos -1   nums 0
+boat id=2  status 1  pos -1   nums 0
+boat id=3  status 1  pos -1   nums 0
+boat id=4  status 1  pos -1   nums 0
+robot  id 0 goods 1 gr 0x6000024f7720  berth id -1
+robot  id 1 goods 1 gr 0x6000024ee730  berth id -1
+robot  id 2 goods 0 gr 0x0  berth id 3
+robot  id 3 goods 1 gr 0x6000024f5110  berth id -1
+robot  id 4 goods 1 gr 0x6000024e8b70  berth id -1
+robot  id 5 goods 0 gr 0x0  berth id 8
+robot  id 6 goods 1 gr 0x6000024f7c00  berth id -1
+robot  id 7 goods 0 gr 0x0  berth id 8
+robot  id 8 goods 0 gr 0x0  berth id 8
+robot  id 9 goods 0 gr 0x0  berth id 3
+---------------------------------------
